@@ -1,0 +1,38 @@
+[A] Pokud na svých stránkách Google Analytics nastavený a implementovaný máte, tak se pojďme podívat, jaké jsou základní přehledy, které nám Google Analytics ukazuje. První z nich, pokud se podíváme tady do toho levého meníčka, je v reálném čase. A v reálném čase nám ukazuje, kolik uživatelů momentálně na našich hledových stránkách se
+
+[B] nachází, případně ve kterých sekcích, co se
+
+[A] provlížejí, odkaď jsou Opřímně, tohle je přehled,
+
+[B] do kterého já prakticky nikdy nekoukám, protože není úplně zajímavý.
+
+[A] Pak jsou tady čtyři další sekce přehledů,
+
+[B] ze kterých první je publikum.
+
+[A] A publikum nám říká, kdo chodí na naše webové stránky. Pak je tu druhý přehled, respektive sekce přehledů, a to je akvizice. A akvizice nám říká, odkaď ti lidé na ty naše hebové stránky chodí, jestli
+
+[B] chodí z Google, z Facebooku, nebo zadají naší URL adresu.
+
+[A] Pak je tady třetí kategorie a to je chování. A to nám ukazuje, na které stránky ti lidé chodí, které si prohlížejí, na které stránky přistávají, když se poprvé dostanou
+
+[B] na naše hebové stránky.
+
+[A] A pak je tady čtvrtý přehled. To je ten nejdůležitější, tzv.
+
+[B] konverze.
+
+[A] A v konverzích se můžeme podívat, jestli ten náš web dělá to, k čemu
+
+[B] je určen, pokud patříte mezi 99 webů, které jsou určeny k tomu, aby vydělávali peníze.
+
+[A] Vidíme tu například cíle, což můžou být objednávkové nebo poptávkové formuláře, kterémi z obových stránech chodí. Můžou to být registrace do newsletterů, můžou to být přihlášky na seminář, školení, Pokud budou realitní kancelář, můžou to být žádané prohlídky nemovitostí. Pokud máte eShop a správně nastavený Google Analytics pro měření tržeb, můžete se dívat
+
+[B] ještě do přehledu Elektronický obchod.
+
+[A] Ten mi bude ukazovat nejenom, kolik objednávek mi na moje webové stránky přišlo, ale zároveň i tržby. Vzhledem k tomu, že jsem v Google Analytics účtu stránek Initio, které slouží pro
+
+[B] generování poptávek, nekoliv pro elektronický obchod, tak tento přehled nevidím.
+
+[A] Nicméně, pro mě nejdůležitější přehled cílů a aby mi správně fungoval, budu muset mít cíle nejprve nastavené, což si ukážeme v dalším videu.
+
