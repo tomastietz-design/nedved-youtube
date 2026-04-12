@@ -1,0 +1,176 @@
+[A] Tak vážení, tohle jsou konversky, jsme u vnitřních a otevřel jsem si šablonu, která je volně dispozici každému. Ta šablona se nazývá Zebra. Na této šabloně si ukážeme, jak pomůžeme tady paní doktorce Bystřické vytvořit stránku, která bude prodávat její produkty. Paní doktorka provozuje genetickou laboratoř a tahle stránka nám bude sloužit, abychom prodali její test laktozové intolerance.
+
+[B] Pojďme začít tvořit.
+
+[A] Tohle je editor, který umí ovládat každý. Každý, kdo umí pracovat aspoň s Wordem, a všechny prvky, které jsou na této stránce, jsou editovatelné, stačí na ně kliknout,
+
+[B] můžete přepsat text, například můžu změnit nadpis, takže místo získejte testovat sadu zdarma, napíšu získejte právě teď test zdarma.
+
+[A] Pokud se mi nelíbí barva tadyhletoho prvku, můžu si to přebarvit s červené udělám
+
+[B] například zelenou, všechny prvky si můžu snadno
+
+[A] nabarvit a pohrát si s nima tak, jak potřebu, pokud chci, aby to bylo větším fontem, tak s větším font. Tady přidám paní doktorce i její logo, takže já kliknu na ozubené kolečko v nastavení a zvolím si jiný obrázek, nahraju
+
+[B] si ho z počítače, já jsem si tady připravil logo genetické laboratoře Genlabs, tohle
+
+[A] je připraveno a nechci tady mít obrázek, já si místo obrázku vložím prodejní video, které paní doktorka připravila.
+
+[B] Kliknu na tohleto tlačítko plus a tímto
+
+[A] tlačítkem si kamkoliv můžu přidat jakoukoliv novou komponentu.
+
+[B] Vidíte, že Konversky mi nabízejí nadpis, odstavec,
+
+[A] obrázek, tlačítko, upozornění, ukazotel, průběhu, seznam, položek, to jsou checkboxy, speciální nabídky, dvoukrokové formuláře, inputy.
+
+[B] Já budu chtít video.
+
+[A] Vložím si sem video. Já tady mám vzorové video, tohle já
+
+[B] ale nechci, já chci pryč Honzu.
+
+[A] Já tam chci dát odkaz na video paní doktorky.
+
+[B] kliknu opět na nastavení, zubené kolečko a
+
+[A] tady změním akorát URL adresu toho videa.
+
+[B] Takže já jsem si tady vzal adresu
+
+[A] videa, které jsem si nahrán na YouTube, takže vezmu akorát tu adresu, skopíruji si tu adresu a sem si tu adresu
+
+[B] zkrátka jenom vložím, ctrl-v a ctrl-c, nastavím
+
+[A] automatické spuštění toho videa a ovládací prvky, uložím tuhletu stránku a první stránka je
+
+[B] připravená a zákazník si může objednat test,
+
+[A] který tady ještě vložím, jakož to produkt,
+
+[B] vyberu hlavní produkt, takže vezmu tady test
+
+[A] laktozové intolerance, stránku uložím a ravnou se
+
+[B] na ní můžu podívat.
+
+[A] Vum! A vidíte, že první stránka je připravená a na první stránce můžu začít prodávat laktozovou intoleranci.
+
+[B] Je tady formulář, který můžou ravnou skrze
+
+[A] konversky napojit na platemibránu a získat první peníze od mého zákazníka.
+
+[B] Udělám si druhou stránku.
+
+[A] Na tuhletu stránku navazuje druhý krok, Proto se tomu říká trichtýř, protože ten zákazník prochází celým tím trichtýřem, aby chom maximalizovali šanci, že u nás utratí více peněz. A první stránka, která následuje po objednávce,
+
+[B] je upsell dalšího testu.
+
+[A] Budu upsellovat něco, čemu se říká test Celiak je, protože ten zákazník si objednal test laktozové intolerance. Počkejte, vyzkoušejte náš nejpredávanější test. Celiak je a tady je tlačítko.
+
+[B] Tohle tlačítko v konverskách se jmenuje jedno
+
+[A] tlačítkový nákup, protože v tom předchozím kroku už ten zákazník vyplnil svoji platební kartu
+
+[B] a teď stačí zmáčknutím jednoho tlačítka účtovat další peníze, pokud se rozhodne, že si
+
+[A] objedná i navyšovací prodej. A abych přesvědčil zákazníka, aby si s větší pravděpodobností koupil navyšovací prodej, tak tady přidám ještě jednu komponentu, přidám tady opět
+
+[B] jedno prodejní video a já jsem si
+
+[A] tady připravil druhé prodejní video, které natočila paní doktorka Bystřická, 30 sekundové, opět si zkopíruji ak
+
+[B] ho vložím místo videa se
+
+[A] mnou a automatické zpuštění zapnu, zapnu ovládací
+
+[B] prvky a je to připraveno.
+
+[A] To video je moc široké na můj
+
+[B] vkus, takže já ho trošku zůžím.
+
+[A] Zvolím si tady, že nechci na celou
+
+[B] šířku, ale chci ho jenom na tři čtvrtiny šířky. Super a uložím si to.
+
+[A] A případně si pod tohleto video můžu
+
+[B] vložit ještě jednu řádku. Vložím se tady ještě jednu řádku s jedním sloupcem.
+
+[A] a přidám do ní novou komponentu, přidám tam obrázek a ten obrázek bude obrázek
+
+[B] mého testu, takže si tady můžu vybrat obrázek, nastavení a můžu si zvolit, jestli
+
+[A] z počítače, z mojí galerie a nebo můžu vyhledat online. Já buď nahradu obrázek z počítače, takže si tady vybru obrázek testovací sady a nebo si můžu, pokud nemám vlastní obrázky, v konverskách vybrat obrázek online. My jsme tady udělali speciální vyhledávač obrázku
+
+[B] zdarma, takže když si například napíšu nějaké slovo, například test a dám hledat, tak
+
+[A] konversky mi vyhledají testy na různých serverech, jako je Pixbay, Iconfinder a tyto obrázky jsou zdarma. Takže pokud nemáte obrázky, neumíte ve Photoshopu,
+
+[B] můžete použít některý z těchto testů, které
+
+[A] jsou tady k dispozici, z těchto obrázků, které jsou tady k dispozici zdarma. No a stránka je hotová. Případně já si můžu rozhodnout, že tenhle ten obrázek, protože je veliký, že ho nechci zobrazovat například na mobilních telefonech. Takže tady je responsivita, já si můžu zvolit, že tadyhle ten prvek bude skrytý na mobilních zařízení. Super, můžu to zkontrolovat, ukážu, jak ta stránka vypadá v mobilu a vidím, že
+
+[B] prvek je skrytý, takže uložím. Případně se na tu stránku můžu podívat
+
+[A] ještě jednou, jak vypadá.
+
+[B] Super, tohle je desktop, takže obrázek se zobrazuje a je tady možnost jedním tlačítkem
+
+[A] si přiobjednat Další produkt za 19,97 Kč. A teď pojďme na poslední krok.
+
+[B] Já si to otevřu zase v tom desktopovém zobrazení.
+
+[A] A je tady ještě poslední děkovací stránka. Ještě tady musím napojit ten upsellový produkt.
+
+[B] Upsell tlačítko napojím na produkt.
+
+[A] Test celý, jak je.
+
+[B] Super.
+
+[A] Mám hotovo. Takhle je to jednoduché. Je to zároveň napojené rovnou na platební bránu, takže s kreditní karty vám zostane peníze. A naposled, když si člověk koupí i ten navyšovací produkt, tak bude přesměrován na
+
+[B] stránku, kde si může nechat domluvit konzultaci.
+
+[A] Což už je ten nejvyšší, nejdražší produkt. A opět, protože čím dražší produkt, tím spíše bychom měli prodávat i skrze video,
+
+[B] já si sem vložím ještě jedno video.
+
+[A] Tohle video už sem namluvil já. Tady si opět skopíruji jenom tu adresu toho videa. Tady si to video opět upravím. Nám si tady tu adresu správnou, kterou chci. Automatické zpuštění zapnul. Zapnul a vládací prvky. A Vedle tady mám poptávkový formulář.
+
+[B] Takže když někdo si bude chtít kromě
+
+[A] těch testů objednat i placenou konzultaci a
+
+[B] členství v klubu paní doktorky Rieger Bystřické,
+
+[A] tak si tady může vyplnit poptávku spolu
+
+[B] s vašemi nacionáli a může si domluvit
+
+[A] kvalifikační konzultaci a prodaní telefonu prakticky s paní doktorkou. Já to tady ještě jednou obnovím.
+
+[B] Značí se znovu. A vložím tu stránku Ještě jednou opakování s tím videem.
+
+[A] Uložím si to.
+
+[B] A konverska je hotová.
+
+[A] Takže tohle je krok za krokem, jak
+
+[B] vypadá konversní drichtýř, jak si může paní
+
+[A] doktorka Bystřická a i vy připravit svoji konversku, která může následující roky živit vaší firmu.
+
+[B] Vidíte, že ten editor je jednoduchý. Vy znáte se v něm všichni.
+
+[A] Nemusíte umět programovat, nemusíte umět vůbec nic. Pokud si chcete něco přepsat, můžete si to přepsat. je tu editor, kterému se říká drag and drop, to znamená, pokud je tady nějaký prvek, třeba video a já ho chci posunout, tak vezmu tadyhle tu pacičku a posunu to video kamkoliv na moji stránku. Pokud chci jakoukoliv ze stránek upravit, tak akorát kliknu na návrh těchto stránek, otevřu si jinou stránku, v jiné stránce si vyberu prvek, který chci změnit a drag and dropem pomůžu posunout kamkoliv chci třeba tohleto logo. Pokud nechci mít nahoře, ale chtěla bych mít tady, tak ho takhle posunu. A vidíte, že stránka se změnila. Pokud je tady malé odsazení, tak si můžu otevřít opět nastavení a trošku více si odsadím ty prvky dál od sebe,
+
+[B] ať je to hezčí. Tu stránku uložím.
+
+[A] A máme to připravené. Paní doktorka, mistřická může za několik minut
+
+[B] začít vydělávat na internetu.
+
