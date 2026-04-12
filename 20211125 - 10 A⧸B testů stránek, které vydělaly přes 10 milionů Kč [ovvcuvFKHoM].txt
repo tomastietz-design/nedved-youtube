@@ -1,0 +1,668 @@
+[A] Dobrý den, zdraví vás Honza Sinicia. Dneska vám řeknu, co to je nízko vysící hovoce. Slyšeli jste to někdy?
+
+[B] To je ovoce, který vysí tak mizoučko,
+
+[A] že ani nemusíte natahovat do ruku. Jenom ví trošku zvednete. Seberete to ovoce a vychutnáte si ho. To jsou v životě, v podnikání a
+
+[B] i u stránek konverzních takový drobňoučký úpravy,
+
+[A] který nazeberou skoro žádnou práci. Něco napíšete, něco málo vymyslíte, něco málo změníte a ono vám to přinese plidně milionku.
+
+[B] a uvidíte, že nepřeháním a ukážu vám
+
+[A] to, jak už je u mě zvykem na konkrétních číslech a konkrétních datech v
+
+[B] rámci dnešní lekce vzory úspěšných A-B testů,
+
+[A] které zachránili několik milionů korun. Zachránili nebo vydělali. A co to jsou A-B testy? Ještě na začátek. A-B test to je takovej znešenej termín, ale prakticky to znamená, že vezmete něco, nějakou reklamu, nebo nějakou stránku, nebo nějaký e-mail, a takzvaně simultálně ho 50 lidí pošlete. V jedný podobě a 50 lidí v druhý podobě a pak vyhodnotíte, který z
+
+[B] těch dvou testů má pro vás větší ziskovost. Pojďme začít.
+
+[A] Začneme AB testem pro denních stránek pro remarketing. Neděste se těch cizích slove, a to teď vysvětlím lidsky.
+
+[B] Testovali jsme dvě stránky.
+
+[A] Stránky, na který vedu reklamu na Initio Academy. stránky, na který vedu náštěvníky, který už
+
+[B] Initio Academy znají, ale zatím si ji nekoupili.
+
+[A] A z reklamy, která může být na Facebooku nebo na YouTube, toho tzv. už ohřátýho uživatela, který už mě zná,
+
+[B] který už zná Initio Academy, vedu a ještě jednou se ho snažím přesvědčit, aby si Initio Academy koupil.
+
+[A] Ta stránka nalevo je jednoduchá stránečka, kterou jsem si připravil za krátkou chviličku v konverskách a ta pravá stránka je stránka, kterou jsme používali předtím dva roky, a je to šablona systému Teachable, což je
+
+[B] nástroj, který tvoří kurzy.
+
+[A] A je to takzvaná šablona, takzvaná výchozí podoba. Ale ta výchozí podoba se mi zdálo
+
+[B] neměla dost dobrý výsledky. Na ty výsledky se pojďme podívat. Ta horní lišta, to je výstřižek z konverzek.
+
+[A] To je výstřižek, který ukazuje, jakýho konverzního poměru na prodeji dosahuje ta stránka na konverskách, 11,42 %. A ten spodek, to je výstřežek z Google Analytics, který ukazuje, jakýho konverzního poměru dosahovala ta stránka, kterou jste viděli předtím napravo.
+
+[B] A ještě jednou ji ukážu.
+
+[A] V platformě Teachable 4,87 %. A tyhle čísla jsou takový abstraktní, tak
+
+[B] si pojďme se k tomu dosadit skutečný čísla.
+
+[A] A ještě jednou ukážu, jak ty stránky vypadaly. A teď vám to ukážu v prohlížeče, abyste měli ještě lepší představu, jak ty stránky vypadají. Tohle je ta původní stránka. Na tuhle tu stránku vedla reklama, ještě jednou schrnuje nabídku, ještě jednou ukazuje pár referencí, jsou tady nějaké výhody, proč si
+
+[B] koupit tento kurz teď.
+
+[A] A následně je tady formulář, kde uživatel vyplní jméno, číslo karty, faktorační adresu. Takhle jednoduchoučká stránka to je. A tahle jednoduchoučká stránka, jak jsem ukazoval, dosahovala konverzního poměru 4,87 %. A stránka, kterou jsem si vytvořil v konverskách, vypadá takhle. a ji nejřív projedu. Můžete si všemu, že je velmi, velmi dlouhá. A teď co na té stránce.
+
+[B] Je tu nějaký malý logo, což není úplně podstatný. Je tady velký nadspis.
+
+[A] Je tady nějakej obrázek, nějakej vizual, který ještě jednou se snaží uchytit hodnotu toho produktu. Následně je tady pár benefitů, výhod, který ten kurs v sobě obsahuje, je tady
+
+[B] nějaký vymezení ceny a finální cena bez
+
+[A] DPH, včetně DPH, a je tady časová
+
+[B] urgence, plus dvoukrokovej poptávkovej objednávkovej formulář a
+
+[A] pár referencí vedle toho formuláře.
+
+[B] Já se zastavím nejdřív u nadpisu.
+
+[A] Každá stránka, kteroukoliv stránku jsem v životě dělal, ať už to byla stránka na sbírání poptávek, lídů a nebo prodej, vždycky vyhrála stránka, která měla nadpis, která měla dobrý nadpis. Což tahleta platforma, například Teachable, bohužel v těch šablonách neumožňuje.
+
+[B] A ten nadpis sám o sobě může být zodpovědnej za zvýšení toho konverzního poměru
+
+[A] třeba o 20-30% sám o sobě. Další věc, ten obrázek. Ten člověk se proklikne s reklamy a
+
+[B] samozřejmě text působí, když je dobře napsanej,
+
+[A] ale vizuál prostě může zvýšit, když je dobře udělaný, tu vnímanou hodnotu.
+
+[B] A když je vnímaná hodnota vyšší, tak
+
+[A] větší procentu lidí potom bude nakupovat, zvlášť
+
+[B] když jde o peníze. Potom jsou tady ještě jednou zmíněny, bonusy,
+
+[A] ale to je i tady.
+
+[B] Nicméně tady asi uznáte, že tenhle ten
+
+[A] design je atraktivnější, připoutá víc pozornosti a ve finále i to ukotvení té ceny. I když se vám to může zdát laciný, i když se vám to může zdát, že takovéhle teleshopingové provedení, škrtnutá cena a vnímaná hodnota a skutečná cena, že to nebude fungovat na vaše zákazníky, že vaše zákazníci jsou tomuto imuní. Skoro všechny, nebo prakticky všechny studie, které na tohle byly provedené, tak tohleto ukotvení ceny prostě psychologicky funguje a cvišuje to konverzní poměry.
+
+[B] Časová urgence, To asi znáte, pokud jste
+
+[A] studenti NITSO akademie, nebo znáte už nějaké moje materiály. Časová urgence vždy zvyšuje konverzní poměr, když je dobře udělaná. A teď možná to nejzajímavější.
+
+[B] Tadyhle je dvoukrokovej objednávkovej formulář, kde v
+
+[A] prvním kroku po tom člověku chci jméno, e-mail, telefon a případně i čo. Teď se podívejte, co po mně chce ten druhej formulář, platformy Teachable. Začíná tím, že chce jméno na kartě a číslo karty. a expiraci a CVC kód. Tohle samozřejmě toho člověka okamžitě strašně vyděsí.
+
+[B] Tohle samo o sobě ten konverzní poměr zorušuje.
+
+[A] Pak je tady fakturační adresa. A tenhle ten formuář vypadá pro mě trochu děsivě. A moje otázka je, proč chci potom člověku fakturační adresu, když mi ve skutečnosti může dát jenom ICO a já ho jenom musím zdržovat. Takže snažte se tomu člověku ulehčit práci.
+
+[B] No a pak je tady dole nějaký tlačítko malinkatý. Zatímco tenhle ten formulář je výrazně jednodušší,
+
+[A] výrazně přehlednější a na první pohled mě
+
+[B] neodstraší tím, že hned po mně chce
+
+[A] platební kartu, já tady můžu zadat nějaké své údaje, dám pokračovat na druhý krok a teprve ten druhý krok po mně chce číslo mojí platební karty. A ještě je tu jedna věc, je tady navyšovací prodej. To znamená, já díky tomuhle systému, který je vlastně v konverskách, si můžu tu
+
+[B] svoji objednávku navýšit ještě o nějaký další
+
+[A] produkt, který je třeba v hodnotě 20%, 10% toho hlavního kurzu. A tohle nezanedbatelně zvýší průměrnou hodnotu objednávky
+
+[B] a to je vlastně potom všechno zisk. Na číslech. Pojďme se podívat, jaký jsou ty čísla
+
+[A] ještě jednou, ať si to připomeneme. Tahle stránka má konverzní poměr 11,42%, To je tato. A tahle stránka má konverzní poměr 4,87 %.
+
+[B] Co to znamená? To znamená, že mezi těma dvouma stránkama
+
+[A] je 6,5 rozdíl konverzního poměru. A na tuhle stránku já ročně přivedu
+
+[B] zhruba 10 000 náštěv. 10 000 náštěv přes remarketing a nebo přes maily.
+
+[A] Z Facebooku, z YouTube a tak dále.
+
+[B] A když si to minásobíte, těch 10 000 náštěv x 6,5 a ještě si
+
+[A] to minásobíte x 4000 Kč, což je
+
+[B] cena toho kurzu, tak vám vyjde, že
+
+[A] tahle ta stránka, tahle ta drobná úprava, tahle ta stránka, kterou jsem si naklikal
+
+[B] v konverskách, zhruba za hodinku, tak nám
+
+[A] vydělala 2,6 milionů Kč.
+
+[B] A pozor, čistýho zisku. Protože navýšení té celkové hodnoty objednávky je zkrátka zisk. To není špatný, že jo?
+
+[A] Na hodinu práce. Já u té stránky ještě poslední věc jenom zdůrazním. Všimněte si, že ta stránka je velmi, velmi dlouhá, ale zbytek pod tím objednávkovým formulářem, tohle už jsou všechno jenom reference. Já to říkám skoro ve všech kurzech,
+
+[B] ve všech videích, který se zabývají důvěrou
+
+[A] a zvyšováním konverzních poměrů. Každá stránka, zvlášť ta prodejní, by v sobě měla mít pokud možno co nejvíce referencí, kombinovat videoreference a textoví reference, protože pro lidi, kteří jsou skeptici, pro lidi, kteří ještě nejsou ve finále rozhodnutí, že
+
+[B] s vámi chtějí dělat biznis, tak ty reference to je jedna z nejlepších cest,
+
+[A] jak je můžete přesvědčit, aby už to rozhodnutí udělali.
+
+[B] Takže to je první příklad, A-B test prodejní přistávací stránky, tentokrát pro Remarketing.
+
+[A] Můžeme pokračovat dál. A-B test e-mailových magnetů. Pokud znáte konversky, jak víte, že e-mailový magnet je stránka, na kterou pozvete náštěvníka a chcete na něj kontaktní údaj, abyste
+
+[B] následně ho mohli oslovit s nějakou zajímavější
+
+[A] nabídkou, abyste ho pozvali na konzultaci, na
+
+[B] schůzku, prodejní schůzku, prezentační schůzku, anebo abyste
+
+[A] mu potom nabídli nějakou transakci.
+
+[B] A ukážu vám příklady dvou stránek, které jsou téměř identické, ale jednak, vidíte, tak
+
+[A] dosáhla konversního poměru 39% nebo skoro 40%, a druhá 26,8 zhruba. V čem se ty stránky lišily?
+
+[B] Můžete se podívat, že se nelišili v ničem jiném než v nadpisu. Je to A-B test nadpisu.
+
+[A] Pojďme se na ty stránky podívat rovnou
+
+[B] v prohlížeči, ať máte ještě lepší představu.
+
+[A] Tohle je jedna z těch stránek.
+
+[B] Je tu vyštička, logo a velkej nadpis plus obrázek.
+
+[A] Ta stránka komunikuje, Dejte mi e-mail a získejte ode mě šablonu dopisu, který pomohl vydělat firmě 1,9 milionů korun. Takže relativně atraktivní nabídka.
+
+[B] Tlačítko Získat dopis a vyskočí na vás takovéhle, říká se tomu pop-up okínko, kde můžete zadat e-mail a ten dopis si nechat poslat.
+
+[A] A pár referenci lidí, který materiály ode mě získali. A tohle je jedna varianta a tohle je druhá varianta.
+
+[B] Tahle jediná změna, můžete se podívat, že jinak ta stránka je úplně stejná, Tahle
+
+[A] jediná změna způsobila, že tahle stránka má konverzní poměr 26% a tahle 40%.
+
+[B] Pojďme si to přečíst.
+
+[A] První nadpis. Stáhněte si zdarma šablonu dopisu, která má na svědomí bezprostřední tržby 1,9 milionu kč.
+
+[B] A druhý nadpis, šablonu dopisu, který nám
+
+[A] pomohl vydělat 1,9 milionu kč. Já se přiznám, že dopředu jsem rozhodně
+
+[B] nevěděl, že tenhle ten nadpis bude úspěšnější
+
+[A] A do dneška nemám úplně 100% jasno
+
+[B] v tom, proč tenhle nadpis nefungoval tak dobře.
+
+[A] Ale to není důležité. To ani není to sdělení, které bych vám chtěl říct. To sdělení, které bych vám chtěl říct, je testujte. Testujte a je to hrozně jednoduché. V konverskách si totiž můžete vaší stránku zduplikovat, upravit si v rychlosti nadpis. A trvá to prakticky 10 sekund.
+
+[B] Ale když to uděláte, když těch nadpisů
+
+[A] otestujete 3, 5, 7, tak tahleta prácička, tadyhle ten pokus, který vám zabere 15
+
+[B] sekund navíc, vám může během následujícího roku
+
+[A] klidně vydělat milion korun. A byla by škoda, protože vy se pak lopotíte, vy dřete pro vaše zákazníky, hladíte každej detail, ale pak je tady
+
+[B] přitom takovýhle, jak jsem říkal, nízko visící hovoce, pro který stačí jenom takhle šáhnout. A to nízko visící hovoce je zkusit
+
+[A] jenom další dva nebo tři nadpisy.
+
+[B] a otestovat je.
+
+[A] A od toho, a nejenom od toho, jsou konversky.
+
+[B] Tak, u nadpisu ještě chvíli zůstaneme, protože
+
+[A] kdybyste si z tohohle videa, na který teď koukáte, měli odnést jednu jedinou věc a všechno ostatní byste zapomněli nebo odignorovali, tak je to opravdu, jak důležité jsou
+
+[B] nadpisy pro váš obchodní úspěch.
+
+[A] Teď se podíváme na několik stránek a
+
+[B] já vás provedu vlastně genezí, jak se
+
+[A] mladil přistávací stránku na prodej knihy první
+
+[B] miliardné nejtěžší úplně od miminka, od těch
+
+[A] prvních stránek, které byly ošklivé, měly horší konverzní poměry a ještě na ně nechodilo ani moc náštěvnosti. A jak jsme se dostali až ke
+
+[B] stránce, která běží vlastně v současnosti a má na svědomí už skoro 20 000 prodaných knih.
+
+[A] Tak se na to pojďme podívat. Nejdřív ukážu tenhle slide. Vidíte, že tady jsou čtyři stránky. který, a to vám dopředu jsem už prozradil, líší se opět jenom v nadpise, ale výsledky těch stránek, tady se můžete podělat konverzní poměr, 8,4%, to znamená 8,4%
+
+[B] lidí, kteří na tu stránku přicházejí, a
+
+[A] ještě zdůraznuju, je to tzv. studená náštěvnost, přicházejí na ní poprvé v životě, tak 8,4% z nich nakupuje.
+
+[B] Tady 16,23%, 13,18% a 15%. To jsou velký rozdíle, že jo?
+
+[A] rozdíly mezi tím, jestli člověk vytáhne platavní kartu a koupí si knihu.
+
+[B] Pojďme se teda podívat, v čem se
+
+[A] ty stránky vlastně liší. Já vám to ukážu rovnou v konverskách a můžeme si je proklikat.
+
+[B] Tak, tohle je ta první stránka.
+
+[A] 8,4 konverzní poměr. Jak ta stránka vypadá?
+
+[B] Obyčejně je tady obyčejní video natočen na mobil, nadpis První miliarda je nejtěžší, logo
+
+[A] Initia, objednejte knihu zdarma, a pak je tady nějakej text, který tu stránku popisuje.
+
+[B] To, rovnou říkám, je u všech těch dalších stránek stejný. Teď v čem se vyší ta verze,
+
+[A] která má 16% konverzní poměr a v čem ta, která má 8%?
+
+[B] Vlastně dvojnásobně úspěšnější je táhleta stránka.
+
+[A] Tak, jak vypadá. Podívejte se na to.
+
+[B] Jediný rozdíl. Kniha zdarma.
+
+[A] Takováhle blbost.
+
+[B] Takováhle blbost vzpůsobí, že ta stránka je dvojnásobně úspěšnější a více než dvojnásobně ziskovější. Video je stejný.
+
+[A] Pošklivý na mobil.
+
+[B] Tohle bylo ještě staré video, pak jsme
+
+[A] ho přetočili profesionálním videem. Tohle byla první verze té stránky, kterou jsme testovali. A teď jenom pro zajímavost pár, ještě variant, variant B a variant C, který nakonec nevyhráli. O trošku. Že tahle stránka je porazila 16%, tahle
+
+[B] 13% a tahle 15%.
+
+[A] Tak v čem je jiná stránka, která měla 13%? Tahle ta stránka má jenom nadpis, první miliarda nejtěžší.
+
+[B] Všimněte si, že se líší od této stránky tím, že tam nemá logo. To je docela váhu, že jo? Tahle ta stránka s logem má 8
+
+[A] konverzní poměr a ta stránka bez loga, jinak je stejná, tak ta má 13 konverzní poměr. Proto si můžete všimnout, že já u většiny přistávacích stránek, kterou kde studenů a aštěvnost vedu na stránku, povodují, že odtiad největšinou nepoužívám loga, protože ty loga zhoršují konverzní poměr. Podnikatelé si na to stěžují, oni chtějí všude mít svoje logo, ale důležitější než logo jsou tržby. A pak je tady ještě varianta C, pojďte se podívat, jak vypadá tahle varianta, která o trošku poráží tuto, a to je tahle varianta. A tam to logo je, ale proč je ta varianta lepší? Protože tu je podnadpis. který to zachraňuje. A ten podnadpis říká kniha zdarma. Kniha zdarma, která vás naučí, jak díky online reklamě získat záplavu zákazníků objednávek a poptávek. Vysvětluji tady nějakou hodnotu toho materiálu, ale
+
+[B] podle mě je to hlavně tím, že
+
+[A] tu je kniha zdarma.
+
+[B] Každopádně víc testování už jsem v tomhle
+
+[A] nedělal, čiže jsem zjistil, že tato varianta měla nejlepší výsledky a s tou jsme potom pokračovali dál.
+
+[B] Tak tohle je k A-B testování této knihy.
+
+[A] To je první varianta. Pak vám ukážu ještě, co se té
+
+[B] knihy dál týče, jak jsme postupovali a
+
+[A] jak jsme tu stránku hladili dál a dál.
+
+[B] Na té stránce.
+
+[A] Teď vám ukážu další verzi, která měla v sobě ještě nějaký drobnější změny. Tak na té stránce, kromě tohohle textu
+
+[B] a nějakých obrázků, je nakonec jednokrokový objednávkový formulář.
+
+[A] Tady je zase nějaká urgence. A teď se chci bavit o tomhle. Na konci toho objednávky o formuláře, kde si člověk může koupit tu knihu za 99 Kč, to znamená v ceně poštovního
+
+[B] a balního, tak je tady něco, čemu se říká fungvičně upsell bump, v češtině
+
+[A] speciální nabídka nebo navyšovací prodej.
+
+[B] Můžete si k té objednávce přidat tajný
+
+[A] masterclass, to je online kurz krátkej za 497 Kč.
+
+[B] A tadyhle ten obdelníček já jsem testoval.
+
+[A] To, co se v těhle v variantách
+
+[B] lišilo je textace a obrázek u tohodle masterclassu. A já vám teď ukážu, v čem
+
+[A] byla změna, kterou já jsem zkoumal.
+
+[B] Udělal jsem tři varianty tadyhle toho obdelníčku,
+
+[A] který mu se říká anglicky upsell bump.
+
+[B] Pojďme se podívat, k čemu ty upsell bumpy vedly.
+
+[A] Ten první, úplně nalevo, který jsem vám
+
+[B] před chvíli ukazoval, tak ten měl na
+
+[A] svědomí průměrnou objednávku v hodnotě 141 korun. A průměrná hodnota objednávky prakticky říká, kolik procent lidí, co si koupili tu knihu, tak si přikoupili i tu speciální nabídku.
+
+[B] Pak je tady další varianta, kde textace
+
+[A] toho absolvampu je vlastně stejná, ale změnilo se to, že je tam obrázek. A obrázek, jak už jsem jednou říkal, zvyšuje vnímanou hodnotu. Tak co, zvýšilo to i průměrnou hodnotu objednávky? Ano, o trochu. Ze 141 korun jsme se dostali na 154 korun. Není to špatné, že 13 korun na ulici je nenajdete. A pak je tady ještě poslední varianta,
+
+[B] která má ještě o maličko jinou fotku,
+
+[A] takovou trochu, řekněme, méně agresivní. A druhá věc, která je důležitá, je tam jiná textace. Můžete si všimnout, že ta textace je drobně upravená. Místo ano chci, i tohle je tady napsáno, ano chci přidat k objednávce i tajný masterclass. A ještě jednu věc.
+
+[B] Všimněte si, že v tomto textu jsem
+
+[A] trochu přepracoval, jak pracuji s urgencí. Například, že tady to začíná. V posledních 15 letech jsem objevil framework a tady tento systém vydělal nám a našim zákazníkům přes 1 miliard do kveče.
+
+[B] Takže větší vnímání hodnoty. A navíc konec tohodle obdelníčku uzavírám. Toto už nikdy znovu nabízet nebudu.
+
+[A] A skutečně vidíte, že tahle strategie zafungovala.
+
+[B] Tadle stratingy způsobila, že průměrná hodnota objednávky tady už je. Nejméně zanedbatelný ten rozdíl 223 Kč místo 141 Kč.
+
+[A] Myslím, že to není špatný na takovou
+
+[B] drobnůstku, jako přetextovat jeden odstavec textu, vyměnit obrázek a ještě jeden mini nadpis.
+
+[A] Práce na 5 hodin. Asi dáte zapravdu, že je to nízko vysící od ovoce.
+
+[B] Tak jo. Pojďme dál.
+
+[A] Ta stránka se následně proměnila. Já jsem pak pracoval ještě několik týdnů na vylepšování a vylepšování toho funnelu. Teď se společně podíváme na to, kam se to dovylepšovalo až k nějakým finálním variantě. Tohle je aktuální podoba té stránky. Vidíte, že už je tady profesionálnější video. Vidíte, že je tady lepší grafika.
+
+[B] Je tady více zárub důvěryhodnosti, loga, médií,
+
+[A] kde jsme se zabrazili. víc obrázků, víc textu, jsou tady reference, víc grafiky, víc referenci, bonusy, lépe graficky zpracovaný, kedy člověk získává ukotvení ceny, garance, vrácení peněz a ještě jedna výzva k akci.
+
+[B] A potom ještě jedna důležitá věc, která pomohla mnoho, hodně, a to je, že
+
+[A] jsme přidali místo jednokrokovýho formuláře dvoukrokovej formulář.
+
+[B] To už znáte, to už jsem vám
+
+[A] ukazoval, že tenhle dvoukrokovej prodejní formulář zvyšuje konverzní poměry a zároveň sbírá jako vedlejší produkt i kontaktní údaj na lidi, který
+
+[B] na konec tu objednávku nedokončí. Já vám teď ukážu, jaké výsledky má
+
+[A] vlastně tahle změna a tahle finální varianta. Dvoukrokovej prodejní formulář, tohle je první krok, tohle je druhý krok, kde je číslo karty a pak je tady to, co už znáte, akorát zase v trošičku jiném provedení, To je ten upsell bump, to je ten navišovací prodej.
+
+[B] A pak je tam ještě jedna věc.
+
+[A] Když člověk koupí tu knihu a případně ten navišovací prodej, tak se ještě nekončí, ale jste přesměrováni na děkovací stránku ještě
+
+[B] s dalším navišovacím prodejem.
+
+[A] Tomu se říká upsellová stránka a na téhle upsellové stránce je napsáno. Důležité právě teď zjistíte, proč jste vlastně nakoupili a je tady zhruba 20-25 minutový
+
+[B] video, který jednak poděkuje uživateli za nákup a zároveň mu nabízí kurs, který je
+
+[A] v hodnotě zhruba 3 000 Kč a
+
+[B] to je ten upsell. Ta stránka je samozřejmě trošku delší, je tu tlačítko, díky kterému může člověk nabíšet tu objednávku a bonusy, garance a všechno
+
+[A] to, co znáte, co funguje.
+
+[B] Teď, jaký je výsledek? Tohle už je ten hotovej funnel, je
+
+[A] zatěžkanej už relativně velkou náštěvností. Vidíte, že na tu stránku bylo, na tuhletu jedinou verzi bylo pozváno nějakých 13 747 náštěvníků.
+
+[B] A výsledek vidíte, že konverzní poměr, to
+
+[A] znamená procentu lidí, který zase na sebe nechá aspoň kontaktní údele, 20%, konverzní poměr pro prodej, zhruba 9,77%, a potom konverzní poměr pro upsell, to znamená ti lidé,
+
+[B] kteří si koupí i ten kurz za
+
+[A] 3000 Kč, 7,69 %.
+
+[B] A průměrná hodnota objednávky je 296 Kč. Pokud si pamatujete, že v těch původních
+
+[A] variantách, který jsem testoval, byl konverzní poměr u těch vítězů 16 %, tak tady je potřeba říct jednu důležitou věc, jenom ať máte srovnání, jakmile stránku zateškáte opravdu velkým množstvím náštěvníků. Jako vidíte, že na tuhle stránku těch náštěvníků chodí opravdu hodně. a takzvaně tu reklamu škálujete, tak se zhoršuje ta relevance těch uživatelů.
+
+[B] To znamená, tahle stránka ve skutečnosti, kdyby měla stejnou náštěvnost jako ta stránka, kterou
+
+[A] jsem testal úplně na začátku, tak by možná měla ten konverzní poměr na prodej
+
+[B] klidně i 25, možná i 30 %. Ale jak zvyšujete dosah té reklamy, se
+
+[A] samozřejmě zhoršuje zákonitě i relevance a zhoršuje se i ten konverzní poměr. Každopádně to, co je pro mě důležitý, na konci není ten konverzní poměr, ale je průměrná hodnota objednávky. To mě totiž říká, že průměrně na
+
+[B] jednu objednávku já mám 296 korun v tržbu.
+
+[A] A to znamená, že já si vlastně můžu dovolit zaplatit, abych neprodělával 296 korun
+
+[B] za zisk jednoho novýho zákazníka.
+
+[A] Protože samozřejmě já neplánuju, nebo není mým cílem, aby moje transakce a můj vztah
+
+[B] s mým zákazníkem skončili tím, že si ode mě koupí knihu a kurs, to by byla škoda.
+
+[A] Dobrá, tak a tadyhle to je srovnání, jenom abyste viděli ta původní stránka, kde jsem začínal, tak tam měla průměrnou hodnotu objednávky 142 korun a ta stránka po těch všech půpravách a experimentech 296 korun. A pokud se vám zdá, že jsem udělal hodně práce kvůli tomu, abych zvýšil průměrnou hodnotu objednávky o 150 korun, tak
+
+[B] se podívejte ještě na tohle.
+
+[A] Podívejte se na tohle. My ročně aspirujeme na prodej nějakých 20 tisíc knih. A ten rozdíl 296 minus 142 je 153 korun. 153 korun krát 20 tisíc jsou 3 miliony korun. To znamená, my díky téhle úpravě si můžeme dát, si můžeme dovolit ročně dát o 3 miliony korun víc do reklamy.
+
+[B] To není málo, že jo? Tak, dobrá zpráva pro vás je, že tenhle ten vyšlechtěnej funnel, tenhle ten vyšlechtěnej
+
+[A] trichtýř je dokonce v rámci konverzek volně přístupná šablona. Jmenuje se to prodajnitrichtýř.com, takže pokud si chcete v konverskách naklikat váš prodajnitrichtýř a stránku, tak to, co nám nejvíc funguje, tak je tady k dispozici zdarma. Můžete si naklikat vášprodejnitrichtýř.com a jenom
+
+[B] si poupravíte tu naši šablonu a můžete tam prodávat cokoliv chcete vy. Tak další A-B test. Ať nejsme jenom
+
+[A] u prodeje, náborová stránka. Tohle je náborová stránka, kterou jsem A-B testoval, měla za cíl získat životopisy od programátorů, který potom by chtěli pracovat u nás na firmě. Můžete si všem, že ta stránka je relativně dlouhá, jako u většiny mých prodejních stránek je tam nějaký
+
+[B] nadpis, nějaký vizual, nějaký příběh, reference, výzvak,
+
+[A] akci. Ale to není to, co jsem testoval. Tady jsem opět, asi se nebudete divit, testoval nadpisy. A ukážu vám, jaký nadpisy to byly. Testoval jsem proti sobě
+
+[B] dvě stránky. A jediný, co jsem změnil,
+
+[A] první stránka, nadpis té stránky bylo Software Developers, pracujete v roce 2021 s námi, 95% remote, a druhá stránka měla nadpis, že jste software developer, který nechce korporát. Podívejte se na ten rozdíl. Tahle varianta měla konverzní poměr na odeslaný životopis 1,73 a tahle 1 %. Ten statistický vzorek už je celkem nezanedbatelný, takže tahle stránka, protože jsme na ní potom pustili, jak se můžete všimnout, docela dost náštěv, asi 4 000 lidí, tak nám prakticky vyprodukovala o 30 životopisů
+
+[B] víc než ta spodní. Vy z vás,
+
+[A] kdo se třeba pohybujete v IT
+
+[B] segmentu, tak víte, že získat 30 životopisů na programátory, to není nic jednoduchého. A
+
+[A] dobrá správa pro vás, pokud byste se chtěli naklikat vlastní stránku třeba na nábor, anebo na cokoliv jinýho i na prodej, tak tahle stránka je taky udělaná na základě šablony na konverskách. Tahle ta šablona se jmenuje e-mailový magnet Brooklyn a najdete ji mezi prvníma, pokud v konverskách pojete do projektů. AB test e-mailu, který vydělal 1,5 milionů
+
+[B] korun za dva dny. Tady jsme netestovali
+
+[A] nadpis, tady jsme testovali předmět, což je vlastně taková obdoba nadpisu, ale u e-mailu, protože to není stránka. Ten e-mail se nelišil, ten jenom v rychlosti ukážu. Byl to takovejhle textovej e-mail, který potom vedl na stránku, kde bylo jenom kratioučký video a tlačítko, kde si mohl člověk sjednat
+
+[B] z půzku s naším specialistou. To teď není důležité. Důležité je, že ty e-maily, My jsme udělali tři testy a ty
+
+[A] maily se lišili v jedný jediný věci. Tohle bylo u všech těch tří variantů
+
+[B] úplně stejný. Ale to,
+
+[A] co nebylo stejný, byl předmět toho mailu. A první mail. To F name znamená oslovení v pátém pádě, takže tady bylo třeba například
+
+[B] Honzo. Jak můžete být tak rutí? Druhá
+
+[A] varianta, Honzo, proč jste na mě tak zlý? A třetí varianta, Honzo, co jsem vám udělal, že mě takto trestáte? A tohle je něco, co bych si nikdy netypnul. Tahle ta úprava, tahle ta změna. způsobila skoro dvojnásobnej open rate míru
+
+[B] otevření toho mailu a více než dvojnásobnou
+
+[A] proklikovost. Ta proklikovost pro nás byla klíčová, protože ta nejlíp korelovala potom s následujícíma tržbama. 7,8 lidí kliklo na odkaz v
+
+[B] tom mailu, když tu byl nadpis Honzo,
+
+[A] co jsem vám udělal, že mě takto
+
+[B] trestáte. A když ten nadpis nebo když
+
+[A] ten předmět byl Honzo, proč jste na
+
+[B] mě tak zlý, tak jenom 3,2 %. Kdybych použil bez A-B testu tenhle předmět, tak
+
+[A] tenhle email vydělal 700 tisíc. Ale protože jsem udělal A-B test a nakonec jsem použil tenhle email, tenhle předmět, tak tenhle A-B test měl hodnotu 1,5 milionu korun. Jenom abyste viděli, jak jsem se k tomu dopočítal, ten mail, ta stránka smířovala k tomu, že se člověk domluvil zkusku s naším specialistou. Na základě toho byla domluvená zakázka v průměrní hodnotě
+
+[B] 84 tisíc korun. Jedna poptávka, my u ní máme
+
+[A] zhruba 40% konverzi, to znamená 40% x 84 tisíce nějakých 33 600 korun. A ten e-mail vyprodukoval 42 poptávek, takže 42 x
+
+[B] 33 tisíc je zhruba 1,5 miliona, ať vidíte, jaký čísla jsou za tou úvahu. A opět dobrá
+
+[A] správa, pokud používáte konversky, a možná jste si toho všimli, ta stránka, kterou jsem vám ukazoval, je opět vytvořená v konverskách na
+
+[B] šabloně e-mailový magnet Brooklyn. Tak, a ještě Jedna poslední, jeden A-B test dlouhých nadpisů pro prodej knížky, dětské knížky, dětského
+
+[A] sci-fi Písečníci a bludný asteroid od pana Václava Dvořáka. Je to velmi úspěšná knížka od velmi šikovnýho, skvělýho spisovatele. Co jsme zjistili, že není skvělý, jsou nějaké varianty dlouhých nadpisů. A já vám ukážu teď pár variant, který se neosvědčili a jednu variantu, která se
+
+[B] osvědčila. Ta stránka se nelišila
+
+[A] v něčem, není úplně zajímavá, protože prakticky to byl akorát text a nějakej příběh a nějaké reference, ale ten začátek té stránky se
+
+[B] měnil. Měnil se ten zelený nakles, který
+
+[A] vidíte nahoře. První varianta, populární kniha pro mladé čtenáře s poštovním zdarma.
+
+[B] Druhá varianta, kdo další chce, aby jeho děti byly šťastné i bez mobilních telefonů, bavili se
+
+[A] a přitom nehloupli, poštovné
+
+[B] zdarma. A rozdíl těchto dvou variant je
+
+[A] docela zajímavý. Ta první varianta má konverzní poměr na prodej 7,69 %. 7,69 lidí, kteří na tu stránku přicházejí, nakupují. A ta druhá varianta,
+
+[B] jenom 2,6 %. To, co je ještě zajímavější, je, že konverzní poměr na ten první krok objednávky je skoro stejný. Ano,
+
+[A] tady je trochu vyšší, ale tady je
+
+[B] nižší. A čím to je? Já se
+
+[A] k tomu za chvilečku dostanu. Ale ještě vám ukážu pár variant. Tuhle tu si tu necháme jako vítěze. A pak jsem pokračoval dál
+
+[B] a zkoušeli jsme, jestli tohodle vítěze ještě porazí nějakej jiný nadpis. Takže, co jsme zkusili. Další dva nadpisy. Kyniha. Dětský sci-fi bestseller, spočtovným zdarma a
+
+[A] navíc bonusovým dárkem pro rodiče. A nebo ještě
+
+[B] další nadpis. Dětský sci-fi
+
+[A] bestseller písečníci a bludní asteroidky. Uděláte to s dětem za ženě. Plamen je jich vášen pro čtení a vzdělání. Získejte ji pouze na této stránce s v dárkem a poštavním zdarma. Tahle varianta, 0% konverzní poměr a i konverzní poměr na kontakt
+
+[B] nikde nebyl nejnižší. Prostě asi rodiče nechtějí kupovat dětské sci-fi. Nevím, já přesně nevím, proč se to stalo, jenom vidíme, že tenhle ten nadpis se
+
+[A] vůbec nepovedl, přestože jsem si dopředu myslel, že by mohl bejt dobrý. A tahle varianta, Taky nic moc. 2,56 na prodej. Taky jsem si to na začátku nechtěl typnout. Nemyslel jsem si, že
+
+[B] to bude tak špatný. Tak. A ještě
+
+[A] jednu poslední variantu vám ukážu, protože
+
+[B] v tý je něco zajímavýho. Ta poslední
+
+[A] varianta měla konverzní poměr na zadání těch prvních prvotních údajů. 14,71 %. Tím pádem porážela i tu vítěznou variantu
+
+[B] na prodej. To, co se ale nestalo,
+
+[A] je, že v ní lidi nenakupovali. Tam ten konverzní poměr byl jenom na celý 3%. Pojďte se podívat, jak ta stránka vypadala. Kdo další chce, aby jeho děti byly šťastné, aby jsme pro nich telefonů, bavili se a přitom nehloupli, poštovné je zdarmo. A teď je otázka,
+
+[B] proč tato stránka byla méně úspěšná. Můj názor je takovej, nemůžu to vědět, nevím to jistě, ale můj názor je takovej, že tenhle ten nadpis se skvěle trefil do jedné
+
+[A] z hlavních motivací těch rodičů, co chtějí od svojich dětí. A my jsme si udělali analýzu a základní výzkum, takže jsme věděli, že ty rodiče skutečně jsou naštvaní, že děti koukají do mobilů
+
+[B] a hloupnou. Ale tenhle ten nadpis vyvolal to, že ten rodič se pak začal
+
+[A] zajímat o tu objednávku. On se začal zajímat o to, co se děje dál. Ale když se potom dostal k druhému
+
+[B] kroku a zjistil, že má zaplatit, tak
+
+[A] už ho to tolik nemotivovalo, takže spoustu rodičů naseberalo kontaktní údaje, ale pak, když měli vytáhnout platební kartu a
+
+[B] zaplatit, tak už neplatili. Zatímco tenhle
+
+[A] ten nadpis, populární kniha pro mladé čtenáře
+
+[B] s poštovným zdarma, evokuje, že půjde o
+
+[A] knihu, takže začnou vyplňovat ten formulář rodiče,
+
+[B] kteří chtějí koupit knihu, a když se
+
+[A] dostanou k tomu druhému kroku, tak je tady zdůrazněný
+
+[B] v tom asi víc, Ono je to
+
+[A] stejně zdůrazněné jako tady, ale tady to má asi větší prostor a větší pozornost,
+
+[B] to poštovní zdarma. Každopádně, potrženo sečteno, tenhle
+
+[A] ten nadpis ve finále, i když byl
+
+[B] nejjednoduší a nejkračší, fungoval velmi dobře, ale opět, dopředu bych to netipnul, myslel jsem
+
+[A] si, že ty delší nadpisy řemeslně lépe zpracovaly z mýho pohledu copywritersky,
+
+[B] ale pretplatný, protože peníze nevydělali. Tak a
+
+[A] ještě jedna poslední
+
+[B] jeden poslední test, a
+
+[A] tím bych to dneska potrhnul a uzavřel. Konverska vs. web. A já vám tady budu chtít ukázat, proč já nikdy nezvu
+
+[B] náštěvnost placenou na naše webový stránky. Já
+
+[A] vám jenom ukážu, jak naše webový stránky vypadají. Toto je webinitia. Toto je webinitia. Má
+
+[B] spoustu sekcí, má všechno, co web má mít. Je tady spoustu povídání o všem možným. Máme tady různý blbosti, máme tady
+
+[A] ilustrace, Máme tady různé animace, spoustu práce a hrozně dlouho jsme ten web dělali.
+
+[B] Pak máme ještě jednu
+
+[A] takovou stránku, na
+
+[B] kterou jsme vedli taky
+
+[A] náštěvnost. A tu jsem si naklikal za 15 minut na Konverskách. Na té stránce není nic než nadpis, obrázek a možnost zárma získat materiál.
+
+[B] A já vám teď ukážu, jaké výsledky má tenhle A-B test Konverska vs. Web. Web.
+
+[A] A vidíte výstřížek z našeho Google Analytics. Konverzní poměr na poptávku 0,31%.
+
+[B] To je tři proměle. To je to,
+
+[A] kdybyste měli v krvi alkoholu,
+
+[B] tak to i přežijete. A pak je
+
+[A] tady konverska. Konverska 50, 40, 97%. Skoro 55% lidí, který zveme na déklamu na konversku, nám na sebe nechají kontakt nikdo,
+
+[B] a my s
+
+[A] níma po tom můžeme pracovat. zatímco když vezmeme
+
+[B] návštěvník a na náš web, tak jenom 0,31%. A v čem je tenhle ten rozdíl? Ten rozdíl je v tom, že
+
+[A] tenhle web nás stal vyvinout
+
+[B] spoustu času a zhruba 250
+
+[A] tisíc korun v nákladech. A tahle konverska, tam mě nestála nic, akorát 15 minut práce, zatímco jsem si
+
+[B] ji v konverskách naklikal. Já bych vás chtěl pozvat na konec tohohle videa. Klikněte na odkaz pod tímto videem a vytvořte si dneska váš účet v konverskách. Vytvořte si váš účet v
+
+[A] konverskách a ty konversky si aktivujte a získejte ode mě zdarma spolu kurs Milionová stránka, ve kterém vás kliknutí za kliknutím budu učit, jak si vytvoříte stránku,
+
+[B] která bude živit vaší firmou. Dalších šest bonusových
+
+[A] kurzu, například o tom, jak si uděláte reklamu na Facebooku, Živý konzultace a coaching přímo ode mě a našich specialistů pořádáme každý týden. Máte možnost kdykoliv přijít a zeptat se na konkrétní dotaz, který
+
+[B] se týká vašeho podnikání. Dostanete od nás
+
+[A] zdarma software Genia, to je váš osobní robotický copywriter, který píše za vás prodaní texty. Získáte nástroj, který dělá tzv. e-mailový autoresponder. Bude za vás posílat automatické e-maile, takže nemusíte platit žádnou externí službu, jako například MailChimp nebo
+
+[B] ActiveCampaign. a získáte navíc desítky
+
+[A] šablon úspěšných konverzních stránek, který jsou prověřený stovkama milionů korun, který vydělali uživatelům
+
+[B] konverzek. A ke dnešnímu dní Konversky využívá, a nebo vyskoušelo více než 16 tisíc podnikatelů v Česku a na Slovensku. Připojte se k nim.
+
+[A] A já se tam na vás budu
+
+[B] těšit. Například se na vás budu těšit u příštích konzultací. A jak jsem říkal, to je
+
+[A] jeden z bonusů, který doufám, že využijete, že se tam uvidíme. Živé konzultace a coaching přímo na Konverskach. To není jenom nástroj na tvorbu stránek a e-mailových sekvencí. Honversky je komunita. Komunita motivovaných podnikatelů,
+
+[B] který si navzájem pomáhají. A my, všichni podnikatele, se tam těšíme. I na vás. Tak
+
+[A] se připojíte, mějte se fajn, ať se vám daří. Děkuju za pozornost, děkuju, že jste věnovali trochu času dneska sami
+
+[B] sobě a vašemu úspěchu.
+
