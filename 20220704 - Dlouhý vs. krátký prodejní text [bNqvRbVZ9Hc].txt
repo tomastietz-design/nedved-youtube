@@ -1,0 +1,100 @@
+[A] Volta, teď se s vámi podělíme o zásadní zjištění z A-B testování, které jsme provedli v konverskách. Já bych vám chtěl ukázat, jakou sílu má dlouhý prodení text na prodení stránce. My tu máme dvě varianty stránky, na které prodáváme náš produkt za 97 Kč,
+
+[B] který se jmenuje Dokonalý webinář, který učí zákazníky, jak si mohou sami vytvořit podle našeho scénáře svůj úspěšný prodení webinář.
+
+[A] A jsou to dvě stránky.
+
+[B] Ty stránky se neliší v konverzním poměru vyplnění poptávky, ale zásadně se liší v
+
+[A] konverzním poměru na prodej. To znamená procentu lidí, kteří tu stránku
+
+[B] naštíví a nakonec zadají svoji platební kartu a něco si koupí.
+
+[A] A já vám ukážu, v čem se ta stránka liší. Toto je ta kontrolní varianta číslo 1. Takhle vypadá stránka, která nabízí a prodává dokonalý webinář.
+
+[B] Je tu nadpis, získajte šablonu webináře, který prodala služby Adboží za více než 123 milion korun.
+
+[A] Je tady reference a je tady prodejní video plus výčet toho, co dostanete a dvoukrokový prodejní formulář. U toho bych se ještě na chviličku
+
+[B] zastavil, protože pokud vy na svých stránkách
+
+[A] nepoužíváte dvoukrokový prodejní formulář, výrazně doporučuji to
+
+[B] zavést, ve skutečnosti většina lidí, kteří na vaši stránku přichází, tak nakupovat nebudou. Ale určitá část z nich se rozhodne započíst ten nákupní proces, který ale nedokončí.
+
+[A] A v okamžiku, kdy používáte tenhle dvoukrokový prodení formulář, tak konversky vám mohou pomoci tomu zákazníkovi, který vyplní ten první krok, ale nedokončí tu transakci, to znamená nezaplatí,
+
+[B] tak mu mohou poslat automatický mail, a
+
+[A] připomenout tomu zákazníkovi, aby se vrátil a tu transakci dokončil.
+
+[B] Tím pádem si můžete zásadně zvýšit procentu vašich platících zákazníků, protože na ně získáte alespoň líd.
+
+[A] Každopádně zpátky k téhle variantě. Tahle varianta prodává a je zisková. Prodává náš perfektní webinář. A ta varianta má 5,38 konverzní poměrná
+
+[B] poptávku, takže vidíte, že z té náštěvnosti
+
+[A] zatím je to malý vzorek, ale už je vypovídající.
+
+[B] Ze 130 náštěvníků sedm lidí vyplnilo svoje
+
+[A] kontaktní údaje a došlo do druhého kroku, kde měli zaplatit. A ve finále z toho byly dva zákazníci, dva platící zákazníci. To znamená konverzní poměr na prodeji jenom 1,54%. A pak tady mám stránku, která v
+
+[B] tom A-B testu vítězí a už průkazně.
+
+[A] Sice je tady napravdě podobnost vítězství v A-B testu zatím jenom 60%, ale to je kvůli tomu, že já tady mám
+
+[B] ještě další testované varianty.
+
+[A] Prakticky šance, že tahle ta varianta porazí tu první.
+
+[B] Už je skoro 100%.
+
+[A] A podívejte se, co se děje v té druhé variantě. Konverzní poměr na poptávku, to znamená na dokončení toho dvoukrokového formuláře, je úplně stejná. Ale z těch sedmi poptávek je pět prodejů, pět zákazníků. A čím to je?
+
+[B] Ve skutečnosti, já vám tu stránku teď
+
+[A] ukážu, ta stránka se nevyší v ničem
+
+[B] jiném, než v délce. Protože ta první část, ten hořejšek té stránky, je schválně úplně stejná.
+
+[A] To nebyla proměna, kterou jsme chtěli testovat.
+
+[B] Takže začátek té stránky je 100% identická s tím, co jsem vám ukazoval před chviličkou, ale to, v čem se ta stránka liší, je její delka.
+
+[A] Tady vidíte, že ta stránka nekončí pod
+
+[B] tím videem, ale že je tu ještě dlouhý prodejní text. Dlouhý prodejní text, který trvá možná 10-15 minut čtenáři, aby si jej pročetl.
+
+[A] A teprve pod tím dlouhým prodejním textem
+
+[B] je výčet toho, co ten zákazník dostává, a dvoukrokový formulář. Plus ještě výčet dalších referenci. A tohle způsobilo, že ty výsledky jsou takové, jaké jsou. A ještě jedna zajímavost.
+
+[A] Proč ten konverzní poměr na vyplnění toho formuláře na ten první krok je vlastně stejný? To je kvůli tomu, že aby člověk začal vyplňovat ten formulář, tak stačí vzbudit zájem.
+
+[B] a zájem na přistávací stránce často vzbudíte
+
+[A] pouze tím, že dobře zvolíte nadpis. Tenhle ten nadpis jsme ho testovali, ten
+
+[B] vyhrál asi z deseti různých variant, takže
+
+[A] víme, že tenhle ten nadpis dokáže vzbudit
+
+[B] takový zájem, aby ten potenciální zákazník začal přemýšlet o tom, že ten produkt koupí.
+
+[A] Ale jenom zájem nestačí, aby člověk nakupoval, a tady z těch čísel to vidíte. Vy potřebujete nejenom zájem, vy potřebujete vzbudit
+
+[B] souhu a zároveň získat důvěr. a to dokážete tím, že na stránce je dlouhý prodejní text. Dlouhý prodejní text, včetně příběhu, a je
+
+[A] tam prostě odpracovaný copywriting, který by měl být odpracovan na každé stránce, v každém konverzním trichtíři, který má ambici, aby vydělával
+
+[B] peníze, aby živel firmu.
+
+[A] Takže tohle je táha, která možná pro vás bude zajímavá, která pro vás doufám
+
+[B] bude použitelná, Pokud vás zajímá více o konverzních trichtířích a chtěli byste si umět vytvořit svůj vlastní, tak vás zvu na
+
+[A] online trénink, který je úplně zdarma a odkaz na něj najdete v popiscích tohoto videa. A nebo vás zvu, abyste vyzkoušeli tenhle produkt za 97 Kč, kterému se říká Perfektní webinář a odkaz na tuhletu stránku
+
+[B] najdete také v popiscích tohoto videa.
+
