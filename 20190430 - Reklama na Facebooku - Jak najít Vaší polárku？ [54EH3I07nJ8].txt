@@ -1,0 +1,308 @@
+[A] Zdravím vás u Inicio Academy.
+
+[B] Dneska si řekneme něco o tom, jak
+
+[A] hledat Polárku v rámci našeho Facebook modulu. Co to je Polárka? Polárka je hvězda, na kterou budeme štěkat
+
+[B] jako psy, ke které se budeme upínat a optimalizovat naše úsilí, abychom se pohybovali správným směrem.
+
+[A] Řečí Facebookového marketingu Polárka je metrika, nebo nějaký číslo, nebo nějaká odnota, kterou my musíme sledovat, abychom věděli, že jdeme správným směrem. A správnej směr je mělat reklamu, která
+
+[B] bude zisková, která nám bude přinášet víc, než nás stojí.
+
+[A] A to musíme být schopni nějak vyhodnotit.
+
+[B] A my si musíme teď říct, jaký
+
+[A] jsou polárky, který budeme sledovat. A co naopak, jak polárku nepoužívat. Pět typů, který používám já, a tohle jsou nejčastější polárky, který si já nastavu
+
+[B] pro sebe a pro svý Facebookový kampaně.
+
+[A] Pokud dělám e-shop, tak je to návratnost investice do reklamy. To je metrika a polárka, která mi
+
+[B] říká za jednou tracenou korunu na té facebookové reklamě, kolik korun v tržbách se mi vrátí.
+
+[A] To už je pro mě celkem dobré číslo, podle kterého můžu řídit, jestli ty facebookové reklamy, které dělám, mají hlavu a patrůk, nebo nemají. Za druhé, pokud mám ne e-shop, ale map, který mi generuje poptávky, nebo řekněme
+
+[B] kontaktní údaje na moje zákazníky, jako třeba
+
+[A] lidi si ode mě budou stahovat e-book a budou se registrovat k mému newsletteru
+
+[B] a já od nich získám e-mail, tak to je tzv. lead, kontaktní údaj.
+
+[A] A v tomhle případě mě bude zajímat,
+
+[B] kolik já zaplatím za jeden lead. Cena za lead tím pádem bude jedna z mých hlavních polárek. Ještě lepší je pod číslo 3 a
+
+[A] to je cena za potenciálního zákazníka.
+
+[B] Protože vy, pokud sbíráte lédy, kontaktní údaje, tak je stejně většinou sbíráte kvůli tomu,
+
+[A] abyste těm lidem potom mohli posílat nějaké
+
+[B] další třeba informace a obchodní sdělení, které
+
+[A] středně době nebo dlouhodobě povedou k tomu, že si od vás něco objednají nebo
+
+[B] že vám pošlou poptávku.
+
+[A] To znamená, nejlepší polárka je cena za
+
+[B] potenciální zákazník nebo za odeslání poptávky. Za čtvrtý, u e-shopu si můžete nastavit
+
+[A] jako polárku třeba cenu za nákup. Ale, jak asi tušíte, je to horší a víc zaváděcí metrika, než návratnost investice. Protože nákup může stát tisíc korun, nebo
+
+[B] dva tisíce, nebo čtyři tisíce. No a cena za ten nákup, respektive
+
+[A] kolik utratíte na Facebooku, taky může stát různě. Je vždycky ale lepší si řídit, jestli
+
+[B] za tu jednu utracenou korunu jste ne,
+
+[A] že měli tolik a tolik nákupů, ale že za tu jednu utracenou korunu jste měli tolik a tolik vržeb. No a zapátý, to je ještě o trošku horší polárka pro e-shop, ale občas nezbyvá nic jiného, než použít aspoň tu,
+
+[B] a to je cena za přidání do košíku.
+
+[A] Kolik peněz na facebookový reklamě musíte utratit,
+
+[B] aby si váš uživatel a potenciální zákazník přidal zboží aspoň do košíku.
+
+[A] Důvod, proč se často používají tyhlety Polárky, jako je třeba cena za přidání do
+
+[B] košíku nebo cena za lítě, že občas
+
+[A] ten proces nákupní a nebo poptávkový trvá tak dlouho, že vy potřebujete primárně spustit rychlé kampaně, nemáte třeba neomezený rozpočet, potřebujete hned vyhodnotit, jestli ta kampaní a reklama má smysl nebo nemá, a taky potřebujete
+
+[B] něco, na základě čeho se Facebook Pixel začne učit, komu tu reklamu má zobrazovat.
+
+[A] A pokud v prvních dvou nebo třech dnech nejste schopní, který tvoříte, protože zatím, řekněme třeba nemáte zkušenosti s tím, tak nejste schopní získat vůbec žádný konverze, tak
+
+[B] ani Facebook Pixel nebude schopný se potom naučit, aby se z něj stal nějaký
+
+[A] dobrý pomocník v optimalizaci těch reklam. O tom ale určitě v nějakým dalším modulu, který bude pokračovat v rámci Yenitsu
+
+[B] Academy, dneska pojďme zůstat u těch polárek.
+
+[A] A ještě jednou opakuju, ty, které já
+
+[B] mám nejradši, je u e-shopů návratnost investice
+
+[A] do reklamy a u webů, které generují poptávky nebo nějaké formuláře, je to za
+
+[B] třetí cena za potenciální zákazníka.
+
+[A] Ukážeme si za chviličku, jak se to
+
+[B] ve Facebook Business Managementu nastavuje.
+
+[A] Pokud vás něco zajímá o tom, jaký je rozdíl mezi těma krátkýma konverzema, to
+
+[B] jsou ty rychlý, jednoduchý, ale trochu zavádějící,
+
+[A] a těma dlouhýma konverzema, které trvají díl
+
+[B] a jsou to ty nejodnotnější, to jsou třeba ty dokončený transakce, nákupy nebo odeslání
+
+[A] poptávkových formulářů, tak u nás na webu na blog.initio.cz
+
+[B] najdete
+
+[A] článek, který se tímhle tím zabývá, a v tom článku krátké konverze vs. dlouhé konverze vám ukážeme konkrétní příklady našich kampaní, kde jsme třeba viděli, jak můžete vidět na tomhletom výstřižku, kampaní, která měla super cenu, tí krátký konverze, platili jsme nějakej 29 CZK za líp, nicméně ta cena tí
+
+[B] dlouhý, tí nejdůležitější konverze byla strašná. Stála třeba 11 tolek. A jiný kampaně, který
+
+[A] měli výrazně vyšší cenu tý krátký konverze, třeba 60 Kč, tak měli cenu tý low conversion skvělou, třeba 90 Kč. A
+
+[B] my jsme ty kampaně vyplnili. protože jsme si mysleli, že nefungují,
+
+[A] přitom to byly úžasné kampaně, které vydělávaly
+
+[B] mnohem více peněz než nějaké jiné, které
+
+[A] se na základě tý krátké konverze tvářily, že jsou dobré. A tohle je právě
+
+[B] důležité, mít tu svoji polárku,
+
+[A] vědět podle čeho se říkíme a řídit se ideálně podle té metriky, která vypovídá
+
+[B] nejlíp o tom našem biznesu. Další příklad,
+
+[A] třeba výstřížek z našeho Facebookůčtu, jednoho z nich, kde máme nějaký konverze, kde máme nějaký cenu. Máme tady cenu za potenciální zákazníka a cenu za ten krátkej
+
+[B] výsledek, za jízkání kontaktního udele. A všimněte
+
+[A] si ty zakroužkovaný kampaně dvě a vypadají, že podle toho prvního sloubce, cena za výsledek, že jsou zhruba stejně dobrý. Jedna cena za výsledek stojí 27 korun, druhá 23 korun. Ale když se podíváte na to důležité, na tu poládku, cena za potenciální
+
+[B] zákazníka, tak vidíte, že ta jedna kampaň,
+
+[A] tak ta vychází, že cena za potenciální zákazník je 550 Kč, a ta druhá
+
+[B] 240 Kč. Znamená, že jedna ta kampaň
+
+[A] je ve skutečnosti skoro dvakrát lepší než ta
+
+[B] druhá. Ale ta cena za ten výsledek tomuhle neodpovídá. Jak by Polárka neměla vypadat?
+
+[A] A s důrazem na to, že spoustu i profesionálních marketérů se dost často rozhoduje podle těchto metrik, které podle mě nemají s Polárkou
+
+[B] vůbec nic společného. Například počet zobrazení. Mě
+
+[A] vůbec nezajímá, kolik lidem se moje reklama bude zobrazovat, protože to aspoň na úrovni reklam, který my tvářím já, nedává žádný smysl a nejsem schopnej to nějak naměřit. Za druhý, cena za kliknutí. Neřeďte se podle toho, jestli vás stojí pro klik tolik nebo
+
+[B] tolik. Mě je jedno, jestli mě stojí pro kliknutí se změny reklamy 10 korun nebo 100 korun. Pro mě je důležitý, jestli
+
+[A] s té reklamy dostávám dostatečnou hodnotu, jestli
+
+[B] mi z ní chodí dostatečné množství
+
+[A] poptávek. A jestli mi s té reklamy přijde za tisícovku utracených peněz 10 poptávek, ale cena za jedno kliknutí mě stojí 100
+
+[B] korun, tak mě to přece je úplně
+
+[A] jedno. Já budu rád, A když budu mít reklamu, za kterými přijde jedna poptávka za tisíc korun, ale cena zakliknutí bude jedna
+
+[B] koruna, a tím pádem dostanu na stránky tisíc lidí, tak to přece není nějaký
+
+[A] super výsledek, víc cena zakliknutí je nízká. To znamená, neřeďte se cenou zakliknutí, řeďte
+
+[B] se cenou, kolik musíte zaplatit, abyste získali tu nejdůležitější konverzi. Za třetí, dosah reklamy. jako pomocník
+
+[A] nějaký brandový kampaně, může být dosah reklamy
+
+[B] možná pro vás zajímavá, spíš
+
+[A] než užitečná, říkám zajímavá
+
+[B] metrika. Já se pohybuju na jiný úrovni,
+
+[A] já jsem z malýho města a dělám reklamu pro sebe, anebo pro malý a
+
+[B] střední firmy. A my většinou potřebujeme
+
+[A] ze reklamy dostat nějakou návratnost. Neděláme brand, ani nevím, jak se vyhodnocuje. Skoro bych chtěl říct, že mu nevěřím, ale lepší řekněme, že je to prostě trošku jiný řeště, na kterým já umím rád. Dosah reklamy, až na velký
+
+[B] výjimky, já vůbec neřeším, protože neumím ho
+
+[A] vyhodnotit, tak jestli to dává nebo nedává hlavu a patu, jestli ten dosah pro mě znamená z obchodního hlediska
+
+[B] něco pozitivního nebo negativního. Za čtvrtý, trvalá
+
+[A] vládce skóre. by určitě nemělo být nastavený jako vaše polárka. Ale zdobědkem RelevanceScore je super metrika, která vám pomůže při spouštění vašich Facebookových reklam, protože ji získáte relativně rychle. Budete ji vědět klidně hned po prvním dní, co ty reklamy máte spuštěný. A RelevanceScore je dobrá metrika, abyste věděli, které reklamy budou špatné. Protože pokud spustíte kampaň a ta relevance score je 1, 2, 3, 4 nebo 5, tak vidíte, že se ta kampaň a ta reklama Facebooku nelíbí. A málo kdy se stane,
+
+[B] že by Facebook vaší reklamu zobrazoval těm nejlepším, těm nejbonitnějším zákazníkům
+
+[A] a že by na základě té reklamy probíhaly super výhodné nákupy,
+
+[B] když bude mít nízký relevance score. s
+
+[A] výjimkou remarketingu. Tam říkám, remarketingy občas můžou
+
+[B] fungovat skvěle, i když mají mizerný relevance
+
+[A] score, ale já kviziční reklamy doporučuji držet se postupů,
+
+[B] které dělám já. Spustím kampaň
+
+[A] a když ta relevance score je horší
+
+[B] než 7, tak ji jen vypínám a zkusím něco jiného. Ještě dřív, než budu
+
+[A] sledovat vůbec nějaké polárky. Relevance score není sice něco, na základě čeho můžu dlouhodobě hodnotit kampaň,
+
+[B] ale můžu na základě toho tu kampaň včas vypnout, aby mi neprodělala pen A zapátý, počet lajků. Zatím se
+
+[A] naše ekonomika netransformovala tak, aby lajky byly měna, kterou se dá zaplatit v podravinách, a dokud se to nestane, tak počet lajků je úplně irrelevantní, vůbec ho neřešte a určitě nedělejte svoje reklamní kampaně tak, aby jejich cílem byl počet lajků. Pokud pod tím máte nějakou chytřejší marketingovou strategii, tak možná, že existuje nějaký způsob, jak přes získávání velkého počtu lajků general business, ale tomu se v tomhle videu věnovat já nechci. Když už bychom se bavili o takzvaném zasažení nebo engagementu těch
+
+[B] vašich reklamních kampaní, tak spíš než lajky,
+
+[A] se snažte, aby vaše reklamy měly komentáře.
+
+[B] Protože je pravda, že když
+
+[A] nějaká vaše reklama a nebo jeho organický
+
+[B] příspělek získá větší počet lajků, tak Facebooku
+
+[A] to dává nějaký signál, že ta reklama se líbí lidem a on by ji potom mohl dále ukazovat za nižší ceny za pro kliky a ukazovat ji i lepšímu publiku. To je pravda. Ale to už je lepší, aby vám lidi tu reklamu komentovali, protože komentář je nejsilnější faktor Facebookový algoritmus, než je sám o sobě like, protože nalikevat je něco velmi
+
+[B] jednoduchý,
+
+[A] komentář to už vyžaduje trošku větší zaujetí
+
+[B] a trošku větší investovanou pozornost, takže Facebook
+
+[A] si raději řídí podle třeba komentářů nebo
+
+[B] aspoň podle sdílení. Likey už dneska nemají tak velkou cenu, jako mývali v minulosti. Takže, opáčko, pokud neznáte svoje čísla, střílíte
+
+[A] naslepo. Proto si definujeme polárku, aby jsme mohli řídit. Aby jsme mohli řídit správným směrem a ta polárka nám
+
+[B] slouží jako ten indikátor,
+
+[A] jako ta vězdička, která nám řekne, kde je ten sever a my tím pádem
+
+[B] budeme vidět, kudy se máme pohybovat. Tak jak tu polárku
+
+[A] měřit? A za chviličku si to ukážeme a naklikáme si to kliknutí po kliknutí,
+
+[B] aby to nebylo jenom prostřednictvím nějakého slajdu
+
+[A] a nějaké přednášky. Za prvý nainstalujte si Google Tech Manager a mložte ten Google Tech Manager, ten kód do všech stránek
+
+[B] vašeho trichtíře. V trichtíře mám na mysli, že ten kód Google Tech Manager musí
+
+[A] být na každý stránce, která
+
+[B] zaznamenává nějakou část toho vašeho konverzního procesu.
+
+[A] To znamená, měl by 100% být na stránce, kde lidi přichází s tím vaší Facebookový reklamy, to znamená na vaší vstupní stránce 100% by měl být a v té stránce, kde lidi odesílejí poptávkový
+
+[B] formulář, nebo kde vám dávají
+
+[A] svůj kontaktní údaj. Pokud tam ten Google
+
+[B] Tech Manager nebude a v něm nebude Facebook Pixel, tak Facebook Pixel nebude získávat
+
+[A] informace z vašich globovejch stránek, jak se
+
+[B] náštěvníci na stránkách chovají. jak se nastavuje Google Tech Manager, co jsme si říkali v nějakém
+
+[A] předchozím videu Initio Academy, to teď už znova probíháme. Nebudeme, buď si to vygooglete,
+
+[B] nebo se vrátíte po pár lekcí zpátky do Initio Academy a zjistíte, jak Google Tech Manager se nastavuje. Tak
+
+[A] za druhý. Nastavte si Facebook Custom Conversion, český vlastní konverz. protože tam si budeme definovat tu naší polárku. A musíte si vytvořit ten pixel, pokud
+
+[B] ho nemáte. Musíte je nainstalovat do toho Google Tag Manageru. A ten pixel si
+
+[A] nezapomeňte verifikovat. Protože To je věc, kterou i spoustu profesionálů zapomíná nebo neví, že se dá udělat. Verifikujte
+
+[B] si svůj pixel. Myslím, že už jsem
+
+[A] to probíral v nějakým předchozím videu, nebo to budu říkat v nějakým dalším.
+
+[B] Je to další signál důvěry hodnosti, že máte verifikovaný pixel s vaší doménou a pak
+
+[A] výkony vašech reklam budou lepší. No a pak se vytvořte tu vlastní konverzi a nastavte
+
+[B] ji nějakou hodnotu. Za chviličku si to ukážeme. Za třetí, otestujte si trackování. Když už máte
+
+[A] nastavenou tu vlastní konverzi, tak ještě než spustíte kampaně, proklikejte si váš web, proklikejte si nákupní nebo ptávkový proces, kontrolujte si, že skutečně se ty konverze propisujou,
+
+[B] to znamená, že Facebook dostává informaci, že se tam něco děje, že dochází
+
+[A] těm konverzům. tak Facebook algoritmus nebude schopný na základě těch konverzí vylepšovat a sám
+
+[B] optimalizovat ty reklamy, což je na Facebooku. Na těch Facebookových reklamách to nejsilnější, že
+
+[A] vlastně ta umělá inteligence vám pomáhá cizelovat
+
+[B] a zlepšovat reklamy díky zpětný vazby, kterou
+
+[A] dostává právě přes Facebook Pixel a přes
+
+[B] to, že trackuje těch konverz. Tak, a
+
+[A] pojďme na to, jak nastavit ten Pixel.
+
+[B] Ukážeme si to teď za klidnutím přímo v prohlížeči. Hledáme se zpět.
+
