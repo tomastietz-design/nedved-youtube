@@ -1,0 +1,338 @@
+[A] Abych nevystrašil ty z vás, kteří nevědí například, co to vlastně AB testování, tak klíčem dnešní prezentaci bude ukázat vám, jak opravdu jedno slovo může vydělat nebo prodělat stovky tisíc korun. experimentů do jedenácti A-B testů, který jsem za vás provedl.
+
+[B] Nebo se jim také říká split testy.
+
+[A] Víceméně jde o to, že na určitým počtu uživatelů, vašich potenciálních zákazníků, testujete v danej okamžik simultánně víc variant nějaký marketingový kampaně. Nyní si ukážeme, co jsme testovali. Bude se to týkat primárně e-mailový komunikace a e-mailů. První A-B test Já jsem chtěl vědět,
+
+[B] jestli tlačítka zvyšují proplikovost a intuitivně člověka
+
+[A] napadne, že by asi měly. A já jsem si vybral jeden prodejní e-mail. Jeden e-mail, přes který jsem se snažil prodávat naše produkty. Ukážu vám, jak ten e-mail vypadal, respektive jak vypadal jeho konec, protože správnej A-B
+
+[B] test by měl ve skutečnosti zkoumat jen
+
+[A] jednu jedinou věc, jednu jedinou proměnu, aby v tom nebyl chaos. A jediná proměna, kterou jsem zkoumal v tomhle A-B testu, bylo skutečně jenom tlačítko.
+
+[B] A já jsem chtěl vědět, Jestli když do e-mailu vložím tlačítko, tak se lidi budou proklikávat častěji, než když do toho e-mailu vložím jenom hypertextovej odkaz, takhle ten
+
+[A] podtrženej link, jak vidíte na tom příkladu napravo. A teď vám dám 10 sekund, abyste si typli, která z těchto variant vyhraje. Já se přiznám, že jsem si typnul a celkem mi dávalo smysl, že by mohla vyhrát ta varianta s tlačítkem.
+
+[B] Každopádně tyhle dvě varianty neměly absolutně žádný rozdíl mezi sebou.
+
+[A] U tohohle prodejního mailu v rámci žádný odchylky, žádný směrodatný odchylky, ani nebylo třeba počítat, protože ty obě varianty měly absolutně identickou proklikovost a v rámci směrodatný odchylky i identickou otevíratelnost smíru otevření. Tenhle ten první příklad mi ukázal, že pokud mám prodejní e-mail, zvlášť pokud je
+
+[B] delší, tak ve skutečnosti to, jestli na konci toho e-mailu je tlačítko nebo hypertext, je skoro jedno. Protože ve skutečnosti u toho delšího e-mailu
+
+[A] si stejně budujete a ohříváte si toho čtenáře a to, jestli na konci se proklikne nebo neproklikne, tak má evidentně na
+
+[B] svědomí ne tlačítko, ale to, jak jste
+
+[A] si vybudovali ten příběh v tom e-mailu. tak jsem si říkal, možná bych měl
+
+[B] udělat trošku jednodušší test u krátkého e-mailu,
+
+[A] který navíc neprodává, ale který jenom předává nějakou hodnotu zdarma. Tudíž, tadyhle ten experiment jsme vyhodnotili jako
+
+[B] ukončenej s tím, že jsem zjistil, že nemá smysl dávat do dlouhého e-mailu tlačítka,
+
+[A] protože stejnou proklikovost má prostě obyčejnej hypertextovej
+
+[B] odkaz, který je tímhletím způsobem udělaný. Druhý ABT zpočíval v tom, že to
+
+[A] tlačítko se mu místilo z vydělávacího e-mailu. Jehož cílem nebylo ohřát toho čtenáře, ale prostě jenom na první dobrou tomu čtenáři toho e-mailu, který ho otevřel, ukázat, že
+
+[B] má na něco kliknout.
+
+[A] A tím pádem se potom dostal na stránku, na který já už jsem měl možnost ho vzdělat a potom případně ho požádat i o nějakou akci, která mohla být prodejní. A takhle vypadal ten kratělýnkej e-mail. Dvě varianty.
+
+[B] Jedna varianta s tím tlačítkem a druhá
+
+[A] varianta, kde místo tlačítka je zase jenom textovej odkaz.
+
+[B] Teď vám dám zase 10 sekund, abyste si typli, který z těchto e-mailů měl větší proklikovost. Podívejte se na výsledky.
+
+[A] Ta varianta bez tlačítka měla proklikovost 2,8 a ta varianta s tlačítkem měla proklikovost 1,9 %. Tohle je něco, co je nejspíš naprosto protiintuitivní.
+
+[B] Když jsem se zamyšlil nad tím, proč
+
+[A] vlastně ta varianta nalevo prohrála, tak může
+
+[B] to být tím, že některé prohlížeče zobrazují
+
+[A] špatně HTML a tím pádem ta varianta nalevo možná nenabízela proklik na tu cílovou stránku rovnou v tom prvním okně, který nabízí třeba ten server, jako je třeba
+
+[B] Centrum nebo seznam, nebo Gmail.
+
+[A] A ta druhá varianta naopak se možná zobrazovala správněji a tím pádem měla větší proklikovost. Anebo fungovala nějaká psychologie, že lidi, jak
+
+[B] jsou už zaslepení nějakým spamem, tak mají v hlavě, že ty reklamní e-maily, který ve skutečnosti je nezajímají, který je obtěžují, tak používají větší množství HTML a větší množství grafických prvků, A tím pádem možná
+
+[A] více reagovali na obyčejnej proklik přes text,
+
+[B] se kterým se teoreticky můžou setkat, i
+
+[A] když posíláte nějaký e-mail s proklikem svýmu kolegovi v práci.
+
+[B] Protože uznejte sami, když budete posílat e-mail
+
+[A] jako člověk a nějakýmu svýmu kolegovi nebo příteli budete chtít poslat informaci, aby někam kliknul a podíval se na nějakou adresu,
+
+[B] tak mu tam nejspíš nebudete dávat tlačítko, dáte mu tam čistě textový proklik.
+
+[A] Každopádně ten důvod, Tohle jsou moje spekulace. Nicméně výsledek je úplně jasný a z těchto čísel je úplně zřejmý, že pokud
+
+[B] budete chtít posílat kratším e-maily, jejíž hlavním
+
+[A] cílem je, aby se člověk prokliknul na
+
+[B] odkaz, tak je lepší použít textovej proklik.
+
+[A] A ještě takový trik, který vám doporučuji. Když tam dáváte ten hypertext, tak dejte si k tomu do závorky i klikněte zde. Aby bylo na první pohled úplně lapidárně
+
+[B] jasný, že člověk na to má kliknout. Další A-B testy.
+
+[A] A-B test 3, 4, 5, 6 a 7, který jsem provedl. A položená hypotéza byla, jestli lidi otevírají spíše e-maily s krátkým předmětem.
+
+[B] Předmět je to, co vlastně vidíte, když
+
+[A] vám e-mail přijde do vaší schránky, ještě než si ho rozkliknete. A je to jedna z nejdůležitějších věcí pro otevíratelnost a jednoduřitelnost e-mailů. To pojďme podívat. První varianta.
+
+[B] různý předměty s tím, že ten první
+
+[A] a druhý předmět mají velmi podobný čísla. Nicméně rozdíl mezi dvouma předmětama, tím prvním a tím druhým, je jak na první
+
+[B] pohled vidíte jeho dílka a zároveň i
+
+[A] jak moc člověk musí vymýšlet a přemýšlet nad tím, jak ona textuje, jaký copywriting,
+
+[B] jaký psaní textu, jakou volbu slov zvolíte.
+
+[A] Takže první varianta mi ukazuje, že vyplácí
+
+[B] se dělat kratiou linky jasným, zřejmým předmětem.
+
+[A] Předmět díra na trhu poráží předmět objevil jsem díru na trhu a zde je místo i pro vás. A poráží i předmět vau díra na trhu, do které se vejdete i vy. Já jsem zase přemýšlel, čím to je a opět inspirací je mi to, jak vlastně vypadají maily, které chodí od mojich
+
+[B] kolegů nebo přátel a sami asi uznáte,
+
+[A] že když vám přichází e-mail od nějakého
+
+[B] spolupracovníka, ty předměty většinou nebývají příliš dlouhý, bývají stručný.
+
+[A] Tím pádem možná, že i e-mailový algoritmy jsou optimalizované, takže preferují ty kratší předměty.
+
+[B] Další. předměty.
+
+[A] Tady jsem zkoušel dlouho přemýšlet nad tím, jak otextovat předmět tohodle e-mailu, to byl
+
+[B] prodejní e-mail, a všimněte si, že opět jedno slovo předmět Zubař.
+
+[A] A suverénně porazil další dva předměty, které jsem testoval, Mudrováclav a jeho výsledky, anebo
+
+[B] poznejte se s Mudrováclavem Kopeckým na Plňové
+
+[A] kliniku za čtyři dny. Tyhle ty předměty, jak vidíte, si vyžádali mnohem víc kreativy nebo víc přemýšlení kompozice,
+
+[B] zatímco prax prostě jedno slovo zubař je
+
+[A] porazilo úplně na plný čáře. Další varianta. Předmět, tady je demo. A nebo chcete demo verzi akademie, demo verze vaší akademie. Tenhleten předmět mnohem kratší a open rate 43%, zatímco ty další předměty mají skoro
+
+[B] až o 7% horší výsledky.
+
+[A] Nicméně, abych z toho nedestiloval nějaké absolutně neporušitelné pravidlo, tak samozřejmě, jak tušíte, neplatí to vždycky. To, jestli lidi budou na ten e-mail klikat, tak není čistě jenom o dílce toho předmětu, ten předmět musí být taky zajímavý. A tady vidíte, že předmět, jak získáte více lajků, nebo moje osvědčená metoda, jak získáte více lajků, Bytě je tenhle ten
+
+[B] předmět delší, tak má výrazně lepší proklikovost,
+
+[A] protože zkrátka volba slov a textace tohodle
+
+[B] předmětu budí nejspíš mnohem větší pozornost a nebo zájem toho čtenáře.
+
+[A] Takže na tohle si dejte pozor. Většinou, cokoliv testuju já, tak většinou opravdu
+
+[B] vítězí kratějí linky předměty, ale ne vždy.
+
+[A] A tady ještě poslední A-B test na dýlku předmětu. a to je opět jeho dílka. Tady vidíte, že předmět, který obsahuje jenom
+
+[B] jedna věc, jenom dvě slova jedna věc, tak výrazně poráží další dva předměty, které
+
+[A] jsou další růst v době covidové a
+
+[B] proč rychle rosteme i v době covidu.
+
+[A] Co se týče tohodle experimentu, tak ať jsem fair, tak dodávám, tenhle ten test jsem prováděl s tím, že ten první předmět měl ještě jednu konkurenční výhodu. A to, že byl opatřený přímým oslovením v pátým pádě toho odběratele. A zhledem k tomu, že jsem si
+
+[B] nebyl jistý, jestli víc z odpovědnosti za
+
+[A] dobrý výsledek tady nenese to jméno, to oslovení, tak jsem se rozhodl, že udělám
+
+[B] A-B testování, jestli i vám se vlastně
+
+[A] vyplatí používat oslovení, pátým pádem křesního jména
+
+[B] ve vašich předmětech e-mailu. Takže pojďme se podívat na osmý AV test. Oslovení ano, či ne?
+
+[A] A tady vidíte, že není moc co řešit. Tady jsou proti sobě testované dva předměty, jednička a dvojka, kde ten první předmět obsahuje krátkej dvouslovnej předmět kniha zdarma. A ta varianta číslo dva obsahuje kniha zdarma pro vás křesní jméno, vyskloněovaný v evokativu. Kniha zdarma pro vás, Martine.
+
+[B] Kniha zdarma pro vás, Honzo.
+
+[A] A ten výsledek je absolutně průkaznej, výrazně
+
+[B] vyšší míra otevření a hlavně výrazně, výrazně vyšší míra proklikovosti.
+
+[A] Teď vám jenom ukážu, co vlastně tenhle rozdíl znamená, protože procenta jsou celkem abstraktní. Ale já vám ukážu něco mnohem méně
+
+[B] abstraktního, to budou peníze.
+
+[A] Tenhle ten rozdíl mezi tou jedničkou a
+
+[B] dvojkou znamená, že ta druhá varianta mi
+
+[A] vygeneruje o 3,1 více náštěv a o 3,1 více náštěv z celé té databáze, na kterou ten e-mail pošl. A tenhle ten e-mail jsem následně po tom otestování poslal na 50 000 adresát. 3,1 se může zdát málo, ale při
+
+[B] této databáze to je 1550 náštěvníků.
+
+[A] To je opravdu hodně lidí. Ta stránka, na kterou tenhle ten e-mail vedl, tak konvertovala při 20% konverzním poměru. To znamená 20% z těch lidí, který na tu stránku přišli, nakupovali. A z to 1550 náštěv při 20% konverzním poměru je 310 prodejů. Opravdu hodně prodejů, byť se tam neprodávalo nic moc drahýho. Každopádně průměrná hodnota objednávky na té stránce finální byla 380 Kč. A 380 korun krát těch 310 prodejů
+
+[B] je 117 800 korun. Tady vidíte, jak strašně moc peněz je případně ve volbě jednoho slovíčka anebo oslovení.
+
+[A] Tohle byl opravdu jedinej rozdíl.
+
+[B] Kniha zdarma anebo kniha zdarma pro vás, Martine. 117 800 korun.
+
+[A] Jestli zatím nepoužíváte oslovení ve vašich předmětech e-mailu, tak se nejspíš připravujete fakt o hodně peněz. Vy mi můžete namítnout, že to nebylo jenom o tom oslovení, že tady bylo i to pro vás, že čistě jsem netestoval jenom tu jednu proměnu. Tak jsem se rozhodl, že udělám ještě jeden A-B test, kde budu opravdu skutečně
+
+[B] testovat jenom to oslovení. A udělal jsem variantu, kde jeden e-mail zněl Prodávejte jako šílení, a ten druhý
+
+[A] e-mail, respektive ten předmět toho e-mailu z něho, Martine Petro Marchetto, prodávejte jako šílení. A opět vidíte, že není o čem pochybovat. Open rate i click rate je prokazatelně
+
+[B] vyšší a tím pádem vyplatí se do
+
+[A] jakýhokoliv předmětu dávat oslovení v pátým pádě.
+
+[B] Pokud neumíte dávat do vašeho e-mailového nástroje
+
+[A] tohleto oslovení, protože například do MailChimpu se to dává dost komplikovaně, musíte to napojit přes Integromat a přes další nástroji, který umí sklonňovat do pátýho pádu, tak vám doporučuji používat nástroj Konversky, který to za vás dělá automaticky. Automaticky z vašeho formuláře, kde sbíráte líd
+
+[B] na toho vašeho potenciální lákazníka, se podívá, jestli to křesný jméno je v češtině
+
+[A] skloňovatelný a pokud ano, tak automaticky ho za vás vyskloňuje. Jediný, co stačí dát, je zástupný znak
+
+[B] oslovení do textu vašeho e-mailu nebo do
+
+[A] předmětu a konversky to za vás provedou.
+
+[B] Desátej A-B test. Vyplatí se psát dlouhej e-mail a nebo krátkej e-mail? Chtějte se podívat na dva e-maily, mezi
+
+[A] kterýma je celkem malý rozdíl. Ten prvý e-mail je o trochu delší,
+
+[B] víceméně spočívá v tom, že než po pozdravu dám odkaz na nějaký nový video, který slibuju, tak k tomu rozvedu aspoň
+
+[A] nějaký kratěj úlinkej úvod na 1,5 odstavce, jak vidíte.
+
+[B] A člověk si říká intuitivně, přece těm
+
+[A] lidem nepošlu jenom dobrý den, tady je odkaz. Přece bych jim měl trošičku vysvětlit, na co ten odkaz povede, že jo?
+
+[B] A já jsem si říkal, to je otázka.
+
+[A] Tak pojďme tu otázku otestovat. A tohle jsou výsledky.
+
+[B] Ten e-mail, který rovnou vedl na ten
+
+[A] odkaz, který nedělal lomáčku, která uváděla, o
+
+[B] co se jedná, tak měl výrazně vyšší míru otevření a i lepší proklikovost.
+
+[A] A když jsem se zamýšlel nad tím, proč měl vlastně i vyšší míru otevření, čím je to, když vlastně předmět je stejný, když jsem testoval akorát obsah toho
+
+[B] e-mailu, tak nejspíš je to kvůli tomu, že ten e-mailovej algoritmus dostal zpětnou vazbu,
+
+[A] protože on se hodně rozhoduje na základě zpětní vazby od uživatelů. A když on viděl, že uvnitř toho
+
+[B] jednoho e-mailu člověk spíše klikne, tím pádem je tam vyšší proklikovost, tak nejspíš ten e-mail je hodnotnější a tím pádem tenhle ten e-mail doručil s větší pravděpodobností dalším uživatelům do jejich doručený pošty.
+
+[A] Ale opět říkám, tohle je nějaká moje úvaha, toho nemám potvrzeno experimentálně. Ale to, co mám potvrzeno experimentálně, bez
+
+[B] jevší pochybnosti, že u takovejhle vzdělávacích e-mailů,
+
+[A] kde vaším cílem je nechat člověka prokliknout, je výhodný nedělat zbytečně velkou omáčku a úvod toho e-mailu, ale rovnou těm lidem
+
+[B] nabídnout odkaz na ten materiál.
+
+[A] A pak jsem udělal ještě jednu variantu, kde jsem se rozhodl, že protestuji.
+
+[B] tři různý dílky těch e-mailů.
+
+[A] Jeden, který víceméně pokryl 1,5 stránku A4,
+
+[B] druhej, který byl zhruba poloviční, a třetí,
+
+[A] ten úplně nejkračší, a můžete sami vidět varianty a výsledky.
+
+[B] V těchto testech mi vyšly skoro stejné schodné open rate.
+
+[A] Nicméně ty click rate byly dost rozdílné.
+
+[B] Můžete se podívat, že ten nejkračší titulek
+
+[A] byl víc než 300 lepší než ten kontrolní vzorek, který byl opravdu dlouhej. A můžete vidět, jak je to krásně odstupňovaný i podle těch jednotlivých dílek. Ta kontrolní původní verze měla click rate míru pro klikovosti 0,3 %. Ta zkrácená, o trochu zkrácená verze, měla pro klikovost 0,7 %. A ta úplně nejkračší verze měla proklikovost 1 %. A já většinou postupuju tak, že cílem
+
+[B] e-mailu je dostat člověka na moji přistálecí
+
+[A] stránku, kde prodávám nebo vyžaduju nějakou hodnotnější akci. Takže pro mě je to jasný pravidlo,
+
+[B] že snažím se mít e-maily co nejkračší.
+
+[A] Nejenom, že mají lepší proklikovost, ale samozřejmě
+
+[B] s nimi máte i méně práce. Tak. A poslední, 11.
+
+[A] je A-B test, který se taky týká
+
+[B] e-mailů, i když ne přímo. A to je, jak získat e-mail do vaší databáze, protože e-maily, které mají mít
+
+[A] nějakou šanci na úspěch, by měly být posíleny výradně na e-maily zákazníků, který si vyžádali, abyste jim e-maily posílali.
+
+[B] Takže A-B test bude spočíhat v tom,
+
+[A] jaký e-mailový magnet udělat.
+
+[B] A já, jeden z e-mailových magnetů, který
+
+[A] používám, tvořím podobné přistávací stránky na konverskách, jako je ta stránka a její varianta, kterou vám ukazuju právě teď. Tohle to jsou dva různé e-mailové magnety, kde si můžete kliknout na tlačítko a zažádat si stažení PDFka s nějakým odnotným materiálem. V tomhle případě to byl dopis, který nám pomohl vydělat 11,9 milionů korun.
+
+[B] A tyhle dvě stránky se neliší absolutně v něčem, kromě nadpisu.
+
+[A] a pod tou stránkou, pod foldem vlastně, až pod foldem je tlačítko, kde se člověk může přihlásit k formuláři a zažádat si o poslání tohohle dopisu. A tady jsou dva titulky. Jeden titulek, který říká stáňte si zdarma šablonu dopisu, která má nás vědomí bezprostřední tržby 1,9 milionu korun, a druhý titulek, který říká šablona dopisu, který nám pomohl vydělat 1,9 milionu korun. Zase vám dám 10 sekund, abyste zapřemýšleli,
+
+[B] která z těchto variant bude úspěšnější a typněte si, o kolik.
+
+[A] Pojďte se podívat na výsledky. Jedna z těch variant měla konverzní poměr 38,44 a ta druhá v úvozovkách jenom 25,93 %.
+
+[B] Který z těch nadpisů si myslíte, že
+
+[A] na plný čáře porazil ten druhej. Je to ta kratší varianta. To samé, co platí u předmětů e-mailů, evidentně platí velmi často i u nadpisů titulků vašich stránek a vašich reklam. A jedinej způsob, ale jak si být jistý, je provést A-B testování, stejně jako můžete velmi snadno provést A-B testování přes nástroj konversky. E-mailová letabáze kterou poctivě nazbíráte, má cenu zlata.
+
+[B] Je to doslova nejziskovější nástroj internetovýho marketingu,
+
+[A] který může jakákoliv firma používat. A jedno, jestli máte e-shop nebo jestli prodáváte služby, jestli z webu získáte transakce anebo poptávky. Vždycky e-mailová databáze, kterou poctivě nazbíráte, má cenu zlata. A teď bych se vás hrát zeptal, jestli už vy taky máte svůj e-mailový magnet.
+
+[B] Protože e-mailový magnet je nejlepší způsob, jak
+
+[A] fairově sbírat skutečně hodnotnou databázi kontaktů na vaše potenciální zákazníky.
+
+[B] Máte už svůj e-mailový magnet? Dnes si ho můžete vytvořit.
+
+[A] A nebude vás to stát vůbec nic, protože se můžete právě teď zaregistrovat k novým konverskám, kde si vytvoříte svůj účet
+
+[B] a můžete si vyzkoušet svoji testovací verzi na 14 dní.
+
+[A] Klikněte na odkaz pod tímto videem a vyzkoušejte konversky.
+
+[B] Ať se vám naří, loučí se Honza
+
+[A] Nedvěd a doufám, že se třeba uvidíme na pravidelní konzultaci, kterou poskytujeme všemu uživatelům konverzek.
+
+[B] Každou středu o 16.30 na živejch Zoom telefonátech přímo se mnou. Budu
+
+[A] se těšit a vyzkoušejte konversky.
+
