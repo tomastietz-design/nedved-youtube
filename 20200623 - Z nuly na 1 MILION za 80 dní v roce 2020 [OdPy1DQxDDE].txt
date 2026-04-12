@@ -1,0 +1,560 @@
+[A] Pokud jste podnikatele a zajímáte se o
+
+[B] marketing, tak vás bude zajímat, co bych
+
+[A] vám dnes chtěl sdělit.
+
+[B] A to je případová studie, jak můžete vydělat za 80 milion korun díky internetovému marketingu.
+
+[A] Já se jmenuji Honza Nedvěd, jsem cynicia. A na konci roku 2019 jsme spustili jeden novej projekt.
+
+[B] Svoj vlastní projekt, za vlastní peníze, na
+
+[A] které jsme si tím pádem mohli ráda experimentovat.
+
+[B] A v jeho 80 dní tenhle projekt utržil 1 milion korun.
+
+[A] a cílil na takzvanou studentnou náštěvnost. To znamená, cílili jsme tou reklamou na lidi, kteří nás vůbec neznali, kteří neznali ten produkt, který dokonce ani nevěděli, že nějakej takovejhle produkt existuje. Zaplatili jsme za tu reklamu Facebooku 351 tisíc korun, protože ta inzert se probíhala primárně na Facebooku.
+
+[B] A utržili jsme 1,5 milionu korun.
+
+[A] To znamená, ten milion, o kterým jsem na začátku mluvil, nebyly tržby, ale ve
+
+[B] skutečnosti to byl zisk.
+
+[A] Tady se můžete podívat Na Google Analytics,
+
+[B] který zaznamenává hodnotu cíle, a Google Analytics navíc neměří zdaleka všechno, protože jednak má zhruba 10% chybovost, a za druhý, spoustu
+
+[A] těch transakcí probíhalo ne přes platební bránu,
+
+[B] kterou ten Google Analytics měří, kde se
+
+[A] platilo platební kartou, ale některé transakce probíhaly
+
+[B] i přes převod na účet a přes fakturu, které logicky v Google Analytics chybí.
+
+[A] A já bych vám teď chtěl prozradit, jak jsem to přesně udělal, abyste to ode mě mohli okopírovat. Možná se budete divit, že když někdo přijde na něco zajímavého, tak si to
+
+[B] hajčkaje jako svoje tajemství a s nikým se o to nepodělí, ale já s
+
+[A] tím problém nemám, navíc já vím, že
+
+[B] o triku nebo o nějakým typu to ve skutečnosti není.
+
+[A] Ty věci se pak musí nějak odpracovat,
+
+[B] precizně udělat a stejně jako lidi vědí,
+
+[A] co mají dělat pro to, aby zubli,
+
+[B] chodit do posilovny a zdravě jíst, tak
+
+[A] to stejně nedělají s marketingem.
+
+[B] Je to
+
+[A] Vy to budete ochotný odpracovat,
+
+[B] tak vám to, co dneska vzdělím, může velmi pomoci.
+
+[A] Hlavně za ten úspěch může Facebook reklamák, jsem říkal, a trichtíř. A co to ten trichtíř je?
+
+[B] Trichtíř je takový marketingový výraz a je
+
+[A] to sekvence kroků, kterýma provedete naprosto neznámýho
+
+[B] uživatele, který o vás vůbec nic netuší,
+
+[A] až z něj postupně vytvoříte platícího zákazníka. A tohle je marketingový trichtíř, jako například
+
+[B] používá Alza, A já ho tu ukazuju,
+
+[A] abyste se poučili, jak to nedělat, protože to, co funguje v Alze, nebude fungovat vám. Alza na Facebooku ukáže takovouhle reklamu.
+
+[B] Je tam počítač Dell a je tam
+
+[A] možnost prokliknout se na stránku, kde je přehled těch počítačů. A lidi Alzu znají.
+
+[B] Lidi znají počítače Dell a tím pádem
+
+[A] lidi věří Alze a nemají problém tam nakoupit. Kliknou na reklamu, kliknou na počítač, přijde do košíku a zaplatí to. Pokud byste ale tenhle typ marketingu, tenhle typ reklamy od Alzi vy skopírovali a udělali ho úplně stejně pro váš e-shop, tak vám ta reklama bude prodělávat. Protože vy zkrátka nejste Alza. Já taky nejsem Alza. To znamená, že my musíme vytvořit ten
+
+[B] trichtíř trochu jiným způsobem. V mém případě ty kroky v tom trichtíři byly následující.
+
+[A] Začali jsme Facebook reklamou. Z té Facebook reklamy jsme pozvali člověka
+
+[B] na takzvanou přistávací stránku, kde jsme si
+
+[A] od něj vzali kontaktní údaje. A zatím jsme neprodávali. Pak navazovala e-mailová sekvence a prostřednictvím e-mailového marketingu jsme si toho člověka takzvaně ohořáli, až byl připravený nakupovat a pozvali jsme ho ve finále na prodejní stránku, kde už ten člověk vytáhnul platební kartu a zakoupil si ten náš produkt. A takhle vycházela ekonomika toho trichtíře. Za každou jednu korunu, kterou jsme zaplatili Facebooku za tu reklamu, za to, že se člověk prokliknul na tu naší stránku, tak jsme dostali 4,76 Kč držby. Začněme tím prvním článkem. Jak vypadala ta reklama? Ta reklama vypadala takhle.
+
+[B] A teď si možná můžete říct, je ošplivá, je divná, je bizarní. Možná jste čekali, že ta úspěšná reklama
+
+[A] bude vypadat úplně jinak. Ve skutečnosti tahle reklama byla extrémně, a pořád je extrémně zisková, extrémně funkční. A pojďme si ji rozebrat po prvcích, abyste věděli, co na té reklamě fungovalo.
+
+[B] Když začnu tou první částí, ten první červený kroužek nahoře.
+
+[A] Ta reklama začíná slovit čeští a slovenští podnikatele. A to je tzv. háček, který mi vyfiltruje pozornost jenom těch
+
+[B] lidí, kterým je zajímají.
+
+[A] Protože já jsem tu reklamu cílil tak, aby se zobrazovala stovkám tisíc lidí.
+
+[B] Ale samozřejmě stovky tisíc lidí ten můj
+
+[A] produkt v České republice a na Slovensku kupovat nechtěli. Já jsem potřeboval zaujímavou pozornost hlavně těch
+
+[B] lidí, který budou moci kupovat.
+
+[A] A to jsou podnikatele. To znamená, když ta reklama začne slovit
+
+[B] čeští a slovenští podnikatele, tak ti se spíše začtou.
+
+[A] A to zároveň dá zpětnou vazbu algoritmu
+
+[B] Facebooku, protože on se potom chytře začne učit a on se bude snažit ukazovat tu reklamu více lidem, kteří se začetli. Takže on nechce ukazovat reklamy lidem, který
+
+[A] se o ně nezajímají.
+
+[B] To by je vyhnalo z Facebooku pryč.
+
+[A] Druhá věc a druhý ten červený kroužek,
+
+[B] ta ukazuje, že jsou tam tři tečky.
+
+[A] To znamená, ta reklama byla celkem dlouhá. A pokud máte dlouhou reklamu, tak se stanou dvě věci. Za prvý se vám tam na Facebooku zobrazí tzv. tlačítko Zobrazit více. A to, když člověk rozklikne, tak se
+
+[B] rozpadne celá dílka té reklamy. A vynásledně dáte už první zpětnou vazbu tomu Facebooku, kteří lidé skutečně mají o tu reklamu zájem. Ještě dřív, než ty lidi se začnou
+
+[A] proklikávat za víc peněz na tu vaší přistávací stránku.
+
+[B] a tím rychleji se ten algoritmus naučí,
+
+[A] komu tu reklamu ve skutečnosti má zobrazovat. A druhá věc je dílka té reklamy. Jak vidíte vpravo, jak jsem tam dal
+
+[B] výsřežek celé té dílky té reklamy, vidíte,
+
+[A] že je opravdu hodně dlouhá, tak vy
+
+[B] máte tímhle tím způsobem možnost toho člověka,
+
+[A] ještě předtím, až se proklikne na vaši
+
+[B] hrubou stránku, už postupně ohřívat, protože se
+
+[A] mu vystavujete při tom čtením už třeba 3-4 minuty. A delší expozice znamená, že tomu člověku
+
+[B] můžete říct delší příběh, který A zároveň
+
+[A] vás Facebook odmění, protože ta vaše reklama
+
+[B] vysravlání s konkurencí toho zákazníka udrží na
+
+[A] stránkách Facebooku o trochu díl. A to samozřejmě Facebook má rád, protože
+
+[B] on nechce úplně, aby lidi odcházeli pryč z Facebooku. On chce, aby lidi na tého platformě zůstali co nejdíl. Další věc, který si můžete všimnout. Dal jsem tam celkem ošklivou svoji fotku,
+
+[A] kde jsem neučesanej, vypadám tam jako feťák, a ještě jsem si ve Photoshopu udělal kurvy pod očima. To je kvůli tomu, že vy potřebujete, aby ta reklama zaujala pozornost. Protože na Facebooku lidi nejsou kvůli tomu, aby nakupovali.
+
+[B] Lidi se tam baví a scrollujou svým feedem a tam se o tu jejich pozornost bálčí.
+
+[A] A vy, abyste toho člověka zaujali, tak
+
+[B] musíte přijít s něčím, co ho tak
+
+[A] trochu šokuje, co bude trochu kontroverzní, co bude divný. Proto ta fotka je taková divná, je taková kontroverzní. Abych zaujal toho člověka aspoň na půl
+
+[B] vteřiny, aby si následně ten člověk přečetl tu údičku a aby se následně začetl do toho dlouhého textu.
+
+[A] A poslední ellipsu, kterou vidíte červenou dole, je v tomto tréninku zdarma. A to znamená, že já tomu člověku ve skutečnosti zatím neprodávám. Já ho zatím zvu na to, aby se prokliknul na stránku, kde dostane něco zadarmo. A teď si srovnejte, Jakou práci já
+
+[B] si dávám s tím, aby se mi
+
+[A] lidi proklikli na reklamu, která je zve
+
+[B] k něčemu zdarma, což je celkem neodvolatelná
+
+[A] nabídka, a jak malou práci si dávají někteří podnikatele s tím, aby se lidi proklikli na stránku, kde musí něco zaplatit. Ještě jedna věc, všimněte si, že ten
+
+[B] obrázek v té reklamě je vyšší než
+
+[A] širokej a to je taky kvůli tomu,
+
+[B] že feed toho Facebooku je nějak nadizajinovaný a když budete mít vysokou fotku, tak
+
+[A] vy v tom feedu vertikálně zaberete větší prostor, tím pádem máte o trochu víc vizuálního prostoru a tím pádem i času, kdy lidi ten váš příspěvek v tom
+
+[B] feedu vidí za tím, co scrollujou.
+
+[A] Tyhle všechny věci jsou důvody, proč ta reklama dobře funguje. Další věci, že ta reklama samozřejmě nebyla jenom jedna.
+
+[B] Já jsem těch reklam otestoval mnoho a
+
+[A] mnoho a vyskoušel jsem dohromady a poskytnul
+
+[B] jsem tomu Facebooku víc než tisíc kombinací.
+
+[A] A kombinací mám na mysli. Různej obrázek s různým textem cílený na různý publikum. A tuhle tu tisíco kombinací jsem takzvaně
+
+[B] nabušil do toho Facebooku a ten algoritmus už za mě vybral ty ideální vítězní kombinace, protože pro každý publikum byl ve
+
+[A] skutečnosti vítěznej, to znamená největší ziskovost měl
+
+[B] jiný obrázek spolu s jiným textem.
+
+[A] A ten Facebook algoritmus, protože to je stroj, ten má rád, když má na výběr. Pokud moje konkurence udělá jenom jednu variantu
+
+[B] reklamy, tak pokud já jich nabídnu tisíc, tak mám výrazně vyšší šanci, že ty
+
+[A] moje reklamy se chytnou.
+
+[B] To je první část toho trichtíře.
+
+[A] Facebook reklama. Ta sama o sobě samozřejmě nic neviděla. Vy toho člověka musíte dostat k vám na web. A my jsme toho člověka dostali na přistávací stránku. Jak ta přistávací stránka vypadala? Nevypadala takhle.
+
+[B] Toto je náš hlavní web.
+
+[A] A kdybychom na tenhle ten náš hlavní
+
+[B] web pozvali z Facebook reklamy člověka, tak
+
+[A] by ten konverzní poměr byl, a my
+
+[B] víme, jaký byl, protože dřív jsme tam
+
+[A] zvali lidi z Facebook reklamy a bylo to k ničemu, tak ten konverzní poměr by byl zhruba takovejhle 0,01%. Takováhle reklama by se nám nikdy nemohla vyplatit. To znamená, tohle byla ta přistávací stránka,
+
+[B] na kterou jsme toho člověka přivedli.
+
+[A] A vy se teď můžete divit, teď
+
+[B] ta stránka je hnusná, strašně obyčejná, není profesionální.
+
+[A] Takovou bych si udělal ve vordu. Ve všem máte pravdu. Udělali byste si ji ve vordu. A to, že je obyčejná, že tam
+
+[B] nic není, je důvod, proč dosáhla takovýho výsledku, jak je Vám teď ukážu.
+
+[A] Tahle stránka měla konverzní poměr 51%. Jednak kvůli tomu, že je ošklivá, to znamená, že vizuálně Vás nerozptiluje a Vy
+
+[B] se můžete soustředit na to hlavní sdělení,
+
+[A] jak z 0 na 1000 objednávek měsíční díky internetu. které ty potenciální zákaznici řeší.
+
+[B] Za druhý není tam meníčko a není
+
+[A] tam žádná možnost se prokliknout kamkoliv jinam,
+
+[B] než na to zelené tlačítko, které vede klídu k kontaktnímu údaji.
+
+[A] A tím pádem ty lidé vám neutečou
+
+[B] na blok, neutečou vám na sekci o nás, neutečou vám někam pryč, protože jediná cesta v tom trichtíři je směrem k
+
+[A] tomu, co vy chcete od nich teď získat a teď není na místě prodávat,
+
+[B] teď není na místě nic víc, než
+
+[A] získat kontaktní údaj na toho člověka.
+
+[B] To byl druhý krok.
+
+[A] Samozřejmě bez dalších dvou kroků by to stejně nic nevydělalo. A v okamžiku, kdy dostanete kontaktní údaj na toho člověka, tak musíte zapojit e-mailový
+
+[B] marketing, protože velký množství těch lidí, zvlášť
+
+[A] pokud máte produkt, který stojí víc než pár stavek korun, si ho nekoupí okamžitě. Ty lidi jsou potřeba ještě malinko předpřipravit a ohřát.
+
+[B] A na to je skvělá e-mailová sekvence a e-mailový marketing, Protože ty lidi byste
+
+[A] samozřejmě mohli pohřejvat ještě dále a dále, že byste jim znova ukazovali další reklamy, ale to samozřejmě stojí peníze a musíte platit Facebooku.
+
+[B] E-mail nestojí nic, ten prostě jenom pošlete
+
+[A] a ta e-mailová sekvence by měla mít nějaký náležitosti, měla by nějak vypadat. První věc je, že ta e-mailová sekvence
+
+[B] by měla být dlouhá.
+
+[A] a měla by obsahovat hodnotní informace v
+
+[B] každém mailu, abyste měli vysoké tzv.
+
+[A] open rati, to je procentu lidí, kteří ten email otevřou.
+
+[B] A vy si můžete všimnout, že ty open rati toho mimo mailu se ze
+
+[A] začátku pohybovali o nějakých 40%.
+
+[B] A i na konci té sekvence, kde bylo dohromady 34 emailů, jsme se furt
+
+[A] pohybovali na celkem slušných číslech.
+
+[B] Představte si, že ty lidi bombardujete mailama, relativně často, z počátku každej den, a i 34.
+
+[A] mail a 33. mail vám otevře 24% nebo respektive 18% lidí. A to je důkazem toho, že ty maily měly v sobě obsahovou hodnotu, že
+
+[B] ty maily jenom neprodávaly, že to nebyly tvrdý sales pitchy. Vždycky ten mail, který já píšu, tak
+
+[A] se snažím, aby dodržoval nejprve dávat, a teprve potom o něco požádat. To znamená, je to dost práce, je to dost vymýšlení, připravit si takhle dlouhou sekvenci mailů, která má hodnotu pro ty vaše zákazníky. I když se od vás nic nekoupí, tak ty maily musí mít hodnotu, aby si ty lidi řekli, jo, tohle je dobrý, tohle chci dostávat, a vy musíte
+
+[B] počítat s tím, že velká část těch lidí, který ty maily přijmají, si od
+
+[A] vás nikdy nekoupí, ale aspoň nějak můžete
+
+[B] pomoci, což je taky fajn. Jenom spoustu lidí říká, ta sekvence je
+
+[A] moc agresivní, protože a ta moje sekvence,
+
+[B] první 14, mi posílala maily každej den,
+
+[A] tak ty lidi se začnou odhlašovat a tím pádem ve skutečnosti mi ten e-mailový marketing nebude fungovat. A já jsem udělal experiment, abych vám
+
+[B] dokázal, že to tak není. Tohle je první sekvence, kterou jsem otestoval na vzorku 8 tisíc lidí v databázi a ta sekvence byla posílaná skutečně každej den. A to, co si můžete všimnout, je, že v tom druhém sloubci, kde máme počet mailů databázy, se to furt zmenšuje. Logicky. Protože když posíláte maily, tak při každém
+
+[A] hrobadném odeslání mailů přijdete o nějakou část lidí, který se tzv.
+
+[B] unsubscribenou.
+
+[A] To znamená, odhlásí se z odběru.
+
+[B] A druhá věc je, že v postupném času se taky snižují open raty, protože
+
+[A] někteří lidé nemají rádi, když dostávají maily každej den, to znamená, oni ty maily
+
+[B] přestanou číst, A dneska e-mailoví algoritmy jsou chytrý, jakže oni jim potom ty e-maily, který nečtou, z těch adres, od kterých nečtou ty e-maily, umistijou do spamkoše, anebo
+
+[A] do hromadní složky, která není moc často otvíraná.
+
+[B] S tímhle je potřeba počítat. Ale důležitá věc je potřeba počítat s
+
+[A] tím, že e-mailový marketing a jakýkoliv marketing děláte kvůli tržbám, kvůli ziskům, A tahleta agresivní sekvence, která se posílá každej den
+
+[B] na databázi zhruba 8000 mailů, má každej den v tržbu zhruba třeba 40, 30, 20 tisíc korun. A na konci toho 14-denního období při
+
+[A] 8000 mailů ta agresivní sekvence vydělá skoro
+
+[B] 400 tisíc korun na tržbách.
+
+[A] Zatímco, pokud byste volili konzervativní sekvenci, že byste poslali první den první mail, druhej
+
+[B] mail byste poslali až desátej den, a 14.
+
+[A] jeden byste poslali třetí mail, tak takováhle
+
+[B] sekvence by, ano, udržela víc lidí zapsanej ve vaší databázi, ale ve skutečnosti by
+
+[A] vydělala jenom něco okolo 43 tisíc korun. To znamená, tohle to byl třetí krok. E-mailová sekvence by měla být dobrá, měla by být dlouhá, měla by předávat hodnotu
+
+[B] a měli by si ji člověk odpracovat, ale pokud to udělá, vidíte, že výsledky z toho jsou velmi pěkný.
+
+[A] No a samozřejmě ta e-mailová sekvence a
+
+[B] ty e-maily musí někam směřovat, protože v
+
+[A] e-mailu si člověk nic nekoupí. Vy potřebujete toho člověka dostat na prodejní stránku. A jak by měla ta prodejní stránka vypadat? Například nějak takhle. A znova si můžete říct ošplivá, obyčejná, nic moc, žádný obrázek. Jenom nějaký sdělení. Ale to sdělení víceméně popisuje, co ty lidi chtějí. Jak můžete vydělat miliony díky internetovým marketingům. A teď už tušíte, co byl ten produkt. Ten produkt je online kurz digitálního marketingu,
+
+[B] ke kterému se člověk může přihlásit, pokud
+
+[A] klikne tlačítko přihlásit ke kurzu.
+
+[B] Jako se vám ukazovalo, že byla velmi dlouhá ta reklama, tak velmi dlouhá je i ta prodejní stránka. A znova vás může napadnout už to,
+
+[A] co jednou vás napadlo. Teď bych si to mohl udělat ve hodnu.
+
+[B] Podívejte se, jak ta prodejní stránka je dlouhá.
+
+[A] A máte znova pravdu. Ta prodejní stránka je ošklivá, je dlouhá, je tam text, který vypadá jako awardu,
+
+[B] a je to znova kvůli tomu, že já chci, aby se lidi soustředili na ten obsah, ne na vizuálno, ne na
+
+[A] nějaké načančané grafické prvky, ale na ty slova a na tu obsahovou hodnotu, která
+
+[B] unitř toho prodejního textu je.
+
+[A] A toho docílim právě tak, že tu
+
+[B] stránku udělám takhle, jednoduchou.
+
+[A] A na konci té stránky, protože tohle
+
+[B] není konec, mám ještě dlouhej rozsah, všech nebo skoro všech referenci pozitivních, který mi
+
+[A] lidi, kteří už si tu akademie koupili, poskytli.
+
+[B] Jsou tam obrázky, jsou tam výstřičky, co
+
+[A] komentovali lidi na Facebooku, jsou tam i
+
+[B] videa, které někteří studenti mi natočili, kde inicio akademie pochválili a vyjádřili si k ním.
+
+[A] A tohle je samozřejmě jeden z nejdůležitějších
+
+[B] prvků, protože představte si, že ty lidi
+
+[A] vás vůbec neznají a tím trichtířem z té Facebook reklamy je dostanete na přistávací stránku, pak je ohřejete v té e-mailové
+
+[B] sekvenci a pak je dostanete na tu
+
+[A] prodejní stránku a oni vám stejně nemusí věřit, tak ty testimony, ty reference jsou
+
+[B] jedna z nejcennějších věcí, který byste na té stránce měli mít.
+
+[A] A podle mě reference by neměly chybět
+
+[B] na žádný prodejní stránce.
+
+[A] Takže to je ta prodejní stránka. A já jsem tam samozřejmě zapojil ještě jednu věc, protože ta věc je doslova tiskárna na peníze, jako ukazuje tato ikonka. To je remarketing. Protože abyste něco prodali lidem, který vás
+
+[B] vůbec neznají a z úplných cizinců z
+
+[A] nich udělali platící zákazníky, tak je opravdu
+
+[B] výhodný a vhodný se jim připomínat. co nejvíc to jde.
+
+[A] A e-mailová sekvence je samozřejmě super, ale
+
+[B] ne všichni lidi třeba ty e-maily čtou a ne vždycky se ten e-mail trefí člověku do té správné hodiny, kdy je
+
+[A] připravenej a rozhodlej už vytáhnout peníze a zaplatit.
+
+[B] A ten remarketing na Facebooku například nám
+
+[A] pomohl velmi a kdybychom ho nepoužili, tak
+
+[B] by ta ziskovost týhle kampaně nebyla tak vysoká.
+
+[A] To znamená, připravili jsme zase nějakou sadu, Remarketingových reklam. Zase jsme udělali větší množství variací, to
+
+[B] znamená různý obrázky, různý texty.
+
+[A] Nechali jsme algoritmus, aby si vybral. A tu remarketingovou reklamu jsme nevedli na
+
+[B] prodejní stránku, ale vedli jsme ji na
+
+[A] stránku, kde je Demičko. To znamená, lidi se proklikli z této
+
+[B] reklamy ne na tu sales page, ale sem.
+
+[A] Na stránku, kde nebylo vůbec nic. Zase ta stránka, si můžete všinout, je velmi ošklivá. A jediné, co na té stránce bylo, je nějaké video, které trvá pár desítek minut. A na tom videu ukazuju krok za
+
+[B] krokem, co vlastně lidi dostanou, pokud si ten produkt koupí.
+
+[A] Že já jsem si říkal, pokud už jsem téměř rozhodlý, že si to chci
+
+[B] koupit, ale furt mám pochyby, co vlastně uvnitř toho produktu je, tak bych chtěl vidět demoverzi.
+
+[A] Takže jsem demoverzi udělal. A z té demoverze, z toho tlačítka Koupit Akademii, už to vede na jednoduchou prodejní stránku, kde nechci zase toho člověka nijak moc otravovat. To znamená, tady už je jenom příležitost
+
+[B] zadat kreditní kartu a naposledy ještě dvě reference, protože na prodejní stránce je vždycky výhodný umístit pár referencí, protože to je
+
+[A] taková ta věc, která ještě toho člověka
+
+[B] přesvědčí, že skutečně teď vytáhne platební kartu a zadá jí do té platební brány.
+
+[A] To je celý ten trick. Vidíte, že to není nic složitýho a
+
+[B] že to není žádný nefér nebo podivnej
+
+[A] typ a princip, který by nikdo nemohl a neuměl používat. Je to akorát potřeba připravit a vědět
+
+[B] trošičku, jak na to.
+
+[A] To znamená, ten trick týře Facebook reklama, přistávací stránka, e-mailová sekvence, prodejní stránka a paralelně do toho potom zapojíte remarketing, který vede ještě na nějakou mezistránku. V mým případě to bylo Demičko.
+
+[B] No a když se člověk koupí Initio Academy, tak se dostane do kurzu, který učí lidi, jak si udělat svůj ziskovej digitální marketing, ať už máte e-shop, ať
+
+[A] už máte službu, ať už z webu získáváte poptávky, transakce, nebo prodáváte business to
+
+[B] business nebo business to customer.
+
+[A] Co jsem teda všechno musel umět pro propagaci Initio Academy? Co jsem tady vlastně dneska zrekapituloval? Nějaký základy marketingu, protože vy nejříš musíte vědět, jak přemýšlet nad vaší reklamní kampaní, nad tou správnou nabídkou, nad tou reklamou.
+
+[B] Musíte si umět ty věci promyslet a taky je musíte umět vyhodnotit.
+
+[A] To je druhý bod. Jsou ty kampaní ziskový nebo nejsou? Musíte umět webovou analitiku, musíte si umět
+
+[B] spočítat relevantnost a ziskovost jednotlivých reklam, protože vidíte, že jsme jich udělali tisíc a kdybych neměl nástroje, jak zjistit po pár
+
+[A] dnech, jestli tahle daná reklama vydělává nebo
+
+[B] nevydělává, tak bych ji nemohl vyškálovat, to
+
+[A] znamená dát do ní víc peněz, a naopak povypínat reklamy, kterými nevydělávali. Třetí důležitá věc, psání textu. Protože texty opravdu, pokud jsou dobrý, tak vydělávají hodně peněz.
+
+[B] A vy, když si tu reklamu nezvládnete dobře otextovat, tak nebude ideálně vydělávat peníze, to mi věřte.
+
+[A] A psání textu byste neměli podle mě přenechávat copy v write room, Dobrý prodejní
+
+[B] text, z mojí zkušenosti, si vždycky nejlíp napíše sám podnikatel, protože on nejlíp zná svůj produkt, on nejlíp zná svýho potenciálního zákazníka.
+
+[A] Další věc, kterou jsem musel umět, je e-mailový marketing. To znamená, jak zdarma vrátit toho uživatela na web, zadarmo.
+
+[B] A e-mailový nástroje, které dělají e-mailový sekvence, jsou dneska už chytrý, velmi jednoduchý a
+
+[A] každej, kdo umí ovládat e-mail, si tam i nakliká svou automatickou sekvenci. Nebojte se toho slova automatická sekvence, že to zní ajťácky.
+
+[B] Vládne to úplně každej.
+
+[A] A poslední věc, Facebook reklama.
+
+[B] Od A do Z, jak udělat a spustit vyděleční reklamy za jednu hodinu. A já vám předám, ty nejdůležitější triky
+
+[A] a tajemství, který znám a teď už
+
+[B] asi tušíte, že pokud byste chtěli i vy se naučit a ovládnout a vydělat
+
+[A] ziskou internetovou reklamu, tak je tady Inicio Akademie pro vás. To je ten produkt, o kterém jsem
+
+[B] mluvil, že za pár měsíců vydělala tolik
+
+[A] peněz a tohle samozřejmě, ať jsem transparentní,
+
+[B] nabídka, že bych vás i rád přivítal
+
+[A] vnitř Inicio Akademie a rád bych vás učil. Základ je marketing.
+
+[B] webovou analitiku, psání textů, e-mailový marketing a Facebook reklamu. Ve víc než 40 hodinách výukovejch videí, kliknutí za kliknutí, vám ukážu přesně, jak
+
+[A] jsem naklíkal reklam já, na přesných číslech,
+
+[B] na výpisech z účtu, na výpisech z
+
+[A] business, webový analitiky, kde uvidíte na každý koruně, na každý kampani, jak to funguje, jak případně, jak to nefunguje. A to není všechno, protože byť tohle
+
+[B] je ten materiál, který vám postačí, k
+
+[A] tomu, abyste zreplikovali ty moje úspěšný kampaně,
+
+[B] tak v Initial Academy jsou ještě další kurzy v ceně.
+
+[A] Například kurs PPC reklamy, jak si třeba nastavit vyhledávací kampaně v Google Ads. Kurs reklamy na YouTube, protože na Google
+
+[B] sítě v YouTube síti si dokážete udělat skutečně jedny z nejziskovějších reklam a je
+
+[A] tam velmi malá konkurence. Kurs SEO, to znamená optimalizace pro vyhledávače. Naučím vás taky, jak tvořit konverzní stránky, jak si představit přistávací stránku pro vaši kampani.
+
+[B] Naučím vás tam i, jak dělat Facebook
+
+[A] propagaci, pokud nemáte peníze, pokud chcete umět dělat Facebook reklamu, aniž inserujete. Zároveň jako bonus dostanete pravidelný přístup do
+
+[B] živýho webináře, kterým říkáme otázky a odpovědi,
+
+[A] a to je, že každej týden, většinou
+
+[B] ve čtvrtek, pořádáme webinář, kde se studenti
+
+[A] Inicio Akademie můžou připojit a položit mi
+
+[B] v živém přenose, mně nebo našim specialistům
+
+[A] dotaz a my více méně konzultujeme s našima studentama jejich konkrétní problémy, jejich konkrétní
+
+[B] webby a snažíme se jim poradit. A nejenom v rámci tohodle živého webináře, ale od toho slouží i Facebook skupina,
+
+[A] soupeň máme Facebook skupina Inicio Akademie, do které získáte přístup spolu se zakoupenou Inicio Akademii.
+
+[B] Takže to je schrannutí mojí nabídky, A teď už je potřeba akorát přejít k akci, takže moje výzva k akci zní. Klikněte na odkaz pod tímto videem, podívejte se, co je začet Nicio akademie a to nejdůležitější, pustte se do ní.
+
+[A] Protože pokud se chcete naučit digitální marketing,
+
+[B] který má ziskovost, výkonnostní digitální marketing, ne o budování značce, ale o budování platících zákazníků, tak je Nicio akademie podle mě ideální nástroj. který na vás teď čeká. To byla moje výzva k akci, to bylo moje video, já vám děkuju za pozornost a teď už je to na vás, teď už je to o práci.
+
