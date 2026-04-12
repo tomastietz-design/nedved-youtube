@@ -1,0 +1,404 @@
+[A] Většina podnikatelů v České republice prodělává na webu peníze místo toho, aby ty peníze vydělávaly. A důvod, proč prodělávají peníze podnikatele a
+
+[B] marketéři, je, že mají špatně udělaný stránky
+
+[A] z pohledu konverzí, konverzní stránky. A o tom se dneska budeme bavit v rámci Initio Akademie.
+
+[B] Budeme se bavit o tom, jak zlepšíme ziskovost naší internetový reklamy a proč bez správných konverzních stránek tu ziskovost nebudeme nikdy schopný zjistit, zlepšit tak, jak bychom potřebovali.
+
+[A] Ten konverzní poměr, o kterým se tu
+
+[B] budeme bavit, protože to může být zastrašující nový slovo pro vás, ve skutečnosti je celkem jednoduchá metrika, kterou budeme sledovat.
+
+[A] Ten konverzní poměr je nějaký procentou uživatelů, kteří přichází na naše webový stránky a provádí na nich nějakou požadovanou akci. A ta akce, kterou požadujeme, protože jsme marketéři nebo podnikatele nebo obchodníci, je nějaká akce, která vede k obchodu, která vede k nějakému biznisu. Může to být zaplacení nákupního košíku, může to být odeslání poptávky, může to být
+
+[B] domluvení prohlídky na nějakou nemovitost, může to
+
+[A] být předání kontaktního údaje, například e-mailové adresy
+
+[B] na toho potenciálního zákazníka tím, že se ten zákazník zaregistruje k našemu newsletteru nebo
+
+[A] si vyžádá nějaký materiál, za který my od toho zákazníka budeme chtít e-mailovou adresu. Těch možností a způsobů, jak budeme vyjadřovat konverzní poměr a co pro nás bude konverze, je spousty. Abychom si řekli, co znamená konverzní poměr na konkrétním příkladu, tak pokud moje stránka bude mít konverzní poměr 1%, tak to
+
+[B] znamená, že pouze jeden uživatel ze stovky
+
+[A] uživatelů, která přijde na moje webové stránky, provede tu požadovanou akci.
+
+[B] Pouze jeden ze sta.
+
+[A] Pokud budu mít konverzní poměr 75%, tak
+
+[B] to znamená, že 75 uživatelů ze 100
+
+[A] provede na mým webu tu požadovanou akci.
+
+[B] A my samozřejmě se budeme bavit o
+
+[A] tom, jak ty konverzní stránky připravit tak, aby to bylo těch 75% a ne 1%. Když se bavíme o konverzním poměru a vztahujeme to k jednotlivým stránkám, tak tady
+
+[B] mám tři příklady stránek, který jsem v minulosti vytvořil.
+
+[A] Každá z těchto stránek má nějaký konverzní poměr a každá z těch stránek sleduje jinej typ konverze. Nějaká sleduje objednávku, nějaká sleduje odeslání poptávky, nějaká sleduje registraci k nějakýmu newsletteru a získávání leadů.
+
+[B] Všechny tyhle tři stránky jsou ziskový a
+
+[A] byly ziskový od prvního dne, kdy byly
+
+[B] spuštěny, kdy na ně byla spuštěna nějaká reklamní kampaň.
+
+[A] Každá z nich má jinej konverzní poměr. Ta první stránka má konverzní poměr 21%, ta druhá stránka má konverzní poměr 32%,
+
+[B] což jsou superčísla, a ta třetí stránka
+
+[A] má konverzní poměr 0,9%. A všechny tyhle tři stránky fungujou ziskově, s každou náštěvou, s každou stovkou náštěv
+
+[B] vydělávají víc, než stojí náklady na přivedení té náštěvnosti.
+
+[A] Na ty jednotlivé webové stránky každá z
+
+[B] těch stránek řeší trošku jiný typ obchodu
+
+[A] a má trošku jenom marketingovou strategii. Běžnej konverzní poměr u českých webů je zhruba 0,5%, což je velmi málo. Je to velmi málo, a důvody, proč české stránky mají takový nízký konverzní poměry,
+
+[B] jsou jejich více a řekneme si, v
+
+[A] čem je zakoupanej pes. Ještě předtím ale pro zopakování, co ten konverzní poměr znamená, pojďme si to načrtnout na příkladu. Mám nějaké webový stránky a ty si
+
+[B] představte jako trichtíř a do toho trichtíře
+
+[A] ze shora nalejeme, nakoupíme třeba tisícovku náštěstí,
+
+[B] V minulejch lekcích Initio Academy jsme si
+
+[A] řekli třeba o PPC reklamách, o Facebook reklamách, o optimalizaci pro vyhledávače. A tohle jsou všechny kanály. Tohle jsou některý z kanálů, přes který
+
+[B] na naše webový stránky tu náštěvnost získáváme. Skoro vždycky, no prakticky vždycky, tu náštěvnost nějak musíte zaplatit, ať už penízma, nebo svým časem. To znamená, vždycky ta náštěvna něco stojí.
+
+[A] A s těma náštěvníkama na té stránce nějak pracujete a dosáhnete konverzního poměru.
+
+[B] A pokud se bavíme o standardním českým
+
+[A] webu, tak ten konverzní poměr jsme řekli, že je 0,5% nebo 5 promile. A to je hodně, pokud to nadejcháte před policí, ale na webových stránkách je to velmi málo. Je to tak málo, že z tý
+
+[B] tisícovky náštěvníků získáte pouhejch pět objednávek.
+
+[A] A dosaďme si do toho, protože jsme businessmeni, marketáci, obchodějci, nějaký čísla, nějakou měnu.
+
+[B] Dosaďme si do toho náklady, protože Cena za klik v České republice, cena za
+
+[A] to, že někdo klikne na vaší reklamu třeba na Facebooku, může být 5 korun.
+
+[B] To znamená, tisíc náštěvníků vás bude stát 5 tisíc korun.
+
+[A] Při konverzním poměru 0,5% získáte 5 objednávek
+
+[B] a průměrná hodnota jedné objednávky může být tisíc korun, ať se to dobře počítá.
+
+[A] To znamená, že výnos z této kampani 5 objednávek x tisíc korun je 5 tisíc korun. A když si to srovnáte, náklady pět
+
+[B] tisíc korun, výnosy pět tisíc korun, tak
+
+[A] máte kampaň, která sice nic neprodělává, ale
+
+[B] nemá ani okamžitej zisk.
+
+[A] Ano, z těch lidí, kteří na tu
+
+[B] stránku přichází, si někteří můžou v budoucnosti
+
+[A] objednat po druhý, po třetí a nějaký
+
+[B] z těch lidí, který dneska na té
+
+[A] stránce nenakoupili, tak začnou registrovat vaši značku
+
+[B] a možná se na ty vaše vybový stránky vrátí a vy budete v nějakém lehkém plusu.
+
+[A] Ale my nechceme dělat, takovýhle kampaně a
+
+[B] doufat, že budeme někdy v budoucnosti o lehkým plusu.
+
+[A] My bychom rádi dělali kampaně a ty kampaně vedli na přistávací stránky, který by byly v plusu okamžitě a nebo aspoň co nejdřív.
+
+[B] Proč mají teda ty české weby tak nízký konverzní poměr?
+
+[A] Protože si to můžou dovolit.
+
+[B] To zní možná divně a hned vysvětlím,
+
+[A] co tím mám na mysli. Jak to, že si české weby můžou dovolit bejt špatný?
+
+[B] Protože máme velmi levnou internetovou reklamu.
+
+[A] A náštěvnost stále stojí málo peněz. Vzhledem k tomu, že to platíte z vlastních peněz, tak i 5 korun, 10 korun, 20 korun za proklik se vám může jevit jako hodně. Ale pokud to srovnáte se zahraničím, kde internetová reklama funguje už díl, a nebo
+
+[B] je tam konkurenčnější trh, tak věřte, že
+
+[A] ta internetová reklama, ať už je to
+
+[B] na Facebooku, na Google, na Seznamu, tak je v České republice stále extrémně podhodnocená, extrémně levná.
+
+[A] A vzhledem k tomu, že to máme levný, tu internetovou reklamu, tu náštěvnost pořizujeme
+
+[B] furt celkem výhodně, tak na nás jako na podnikatele, nebo na markeťáky, nebo na
+
+[A] obchodníky není takovej tlak ekonomický a tržný, abychom více přemýšleli, abychom přemýšleli, jak to jde dělat líp. A takhle to funguje v přírodě a takhle to funguje i v ekonomice.
+
+[B] Pokud není dostatečnej tlak, tak se firmy, organismy, zvířata nesnaní. tak, jak by normálně museli, kdyby ten tlak byl větší. V České republice a na Slovensku jsme se tím pádem zatím nemuseli pořádně naučit, jak dělat marketing a přistávací stránky lépe, protože nám to dost často funguje a funguje nám to často i velmi slušně,
+
+[A] aniž to lépe děláme právě díky tomu, že náklady na jeden proklik jsou levný.
+
+[B] No. A když se bavíme o České republice, tak pojďme si to postavit do kontrastu s americkým trhem.
+
+[A] A v Americe je běžnej konverzní poměr webů 5 až 20 %.
+
+[B] Běžnej.
+
+[A] Jsou samozřejmě weby, které mají ten konverzní poměr mnohem větší.
+
+[B] A pojďme si to zase zasadit do
+
+[A] nějakého příběhu, do nějakých čísel. Pokud já na ten web přivedu tisícovku náštěvníků a budu mít konverzní poměr 20
+
+[B] %, tak se mi z té náštěvnosti
+
+[A] ve výsledku uvaří 200 objednávek, a ne 5. A vzhledem k tomu, že náklady na
+
+[B] reklamu v Americe jsou mnohonásobně vyšší, počítejme
+
+[A] třeba 50 korun za proklik, tak náklady na tuhletu náštěvnost mě budou v Americe stát 50 tisíc korun. Ne 5 tisíc korun, jako v České republice.
+
+[B] Ale ty výnosy z té samé reklamy při stejné hodnotě objednávků pro mě budou
+
+[A] 200 tisíc korun, protože já mám konverzní
+
+[B] poměr 20% a za tu samou náštěvnost jsem získal mnohonásobně víc objednávek.
+
+[A] A tohle znamená, že tahle ta kampaň pro mě bude od prvního dne zisková
+
+[B] a já jsem vydělal 150 tisíc korun, přestože jsem měl desetinásobně dražší náklady na jednoho náštěvníka, kterýho jsem chtěl na webový stránky svoje přivést. Teď si to zasaďme do českýho prostředí, ale ponechme si to ze stejnýma nákladama 50 Kč za proklik.
+
+[A] A upozorňuji, že v Americe 50 Kč
+
+[B] za proklik je spíš levná náštěvnost. Jsou tam obory, jsou tam klíčové slova,
+
+[A] jsou tam publika, kde platíte přes 1000 Kč za jeden proklik. Ale zůstaňme u tohodle. Máme 50 000 Kč nákladů na náštěvnost, Konverzní poměr máme těch českých 0,5 a výnosy tím pádem z té kampaně máme
+
+[B] 5 000 Kč, protože jsme získali pouze pět objednánek z těch tisíce náštěvníků. Tím pádem my jsme v Americe se stejnou kampaní a stejnou přistávací stránkou měli 45 000 Kč ztrátu z této reklamní kampaně.
+
+[A] A tady vidíte, že Američani si nemůžou dovolit mít takhle nízký konverzní poměry, protože by prostě zkrachovali. Proč je konverzní poměrů amerických webů tak vysokých? A není to jenom v Americe, je to v Anglii, je to v Kanadě, je to v mnoha západních státech, kde je vyšší konkurence. trošku vyspělejší trh internetového marketingu, ten je tam větší tlak samozřejmě. Takže mají drahou internetovou reklamu a náštěvnost
+
+[B] stále stojí i přes tisíc korun za
+
+[A] kliknutí a furt se zdražuje. Ty náštěvy z Facebooku a z Google každým rokem vykazují respektive ta náštěvnost. jednotková vykazuje zdražování prakticky každej rok a v největší pravděpodobností ta internetová reklama bude ještě stoupat. Stejně tak v ČR se možná bude zdražovat ještě rychleji. Je tady obrovský tlak na podnikatele, aby více přemýšleli a tím pádem v Americe
+
+[B] se museli podnikatele naučit dělat marketing a přistávací stránky lépe, aby jejich firmy mohly dál fungovat.
+
+[A] A v tomhletom se pro nás, pro Čechy a pro Slováky a obecně pro
+
+[B] lidi z východnějších trhů, který ještě nejsou
+
+[A] tak vyspělí, který ještě nedozráli internetově jako ty západní trhy, tak v tom se
+
+[B] pro nás skrývá obrovská příležitost. Co takhle totiž spojit to nejlepší s obou dvou světů, s obou těch zemů? Představte si totiž, že bychom měli stejně
+
+[A] levnou reklamu, jako ho máme v České republice, ale ty naše přistávací stránky a
+
+[B] ty naše kampaně by měly stejně vysoký
+
+[A] konverzní poměry, jako mají ty americké. A pokud by se nám tohle to
+
+[B] povedlo, tak bychom měli neuvěřitelný generátor zisků, neuvěřitelnou konkurenční výhodu, díky které bychom našim konkurentům mohli uletět strašně moc.
+
+[A] A jediné, co my musíme udělat, je
+
+[B] chtít, a ten tlak, vzhledem k tomu, že ho na nás dostatečně netvoří ten trh, budeme chtít vytvořit sami na sebe a budeme po sobě chtít, aby jsme
+
+[A] byli lepší, aby nám nestačilo být dobrý, aby jsme se nespokojili s tím, že to funguje.
+
+[B] Pojďme chtít exponenciálně růst a konverzní stránky nám k tomuhle budou dávat perfektní nástroj,
+
+[A] pokud pochopíme, jak se konverzní stránka vytváří
+
+[B] a v čem spočívá tajemství konverzní stránky. A my je víme z předchozích lekcí
+
+[A] JINICI v akademie, že pokud se nám
+
+[B] podaří zlepšit konverzní poměr, tak aniž bychom
+
+[A] cokoliv dělali s naší reklamní kampaní, s těma reklamama, které máme ať už na
+
+[B] Google nebo na Facebooku, tak se zlepší
+
+[A] výkon těch našich reklam, protože algoritmy těch reklamních systémů fungujou na nějaký bázi akce,
+
+[B] reakce, učení a když ten algoritmus, když ten robot nějakýho reklamního systému začne sledovat, že na těch našich stránkách ty uživatelé
+
+[A] konvertují, dělají tu požadovanou akci s větší pravděpodobností, no tak pro toho robota to
+
+[B] je signál, že ty naše stránky, že
+
+[A] ty naši reklamní kampaně jsou kvalitnější. A on raději ukazuje kvalitnější reklamní kampaně.
+
+[B] A reklamní kampaně se skládá nejenom z
+
+[A] kreativy, nejenom z texta, cenného sobrázku, ale
+
+[B] i z té přistávací stránky, i z toho trichtíře, který navazuje na tu reklamu. To znamená, když my tohle zlepšíme, tak nemusíme vůbec šahnout do našich Google reklam,
+
+[A] do našich Facebook reklam.
+
+[B] Oni se nám stejně zlepší. A zlepší se nám možná víc, než
+
+[A] kdybychom si dali spoustu práce s neustálým
+
+[B] laděním a optimalizací těch jednotlivých reklam, který v těch insertních sítích máme.
+
+[A] Já jsem za vás prostudoval v posledních letech stovky amerických reklamních kampaní.
+
+[B] Podíval jsem se na mnoho a mnoho
+
+[A] trichtířů, na mnoho a mnoho reklam a
+
+[B] prošel jsem si celým tím procesem, udělal
+
+[A] jsem tam i spoustu objednávek, abych věděl,
+
+[B] jak to funguje od začátku až do konce, od prvního přivedení až do úplného dokončení nějaký obchodní akce, včetně různých akce. A z těchto kampaní jsem si vypučil nejlepší nápady a zrealizoval jsem je na českém trhu.
+
+[A] Pro nás, pro naše firmy a nebo pro naše zákazníky. Některé z těch nápadů, některé z těch taktik se uchytili naprosto úžasně a vydělávají
+
+[B] do dneška spoustu peněz a některé propadly.
+
+[A] protože to, co funguje na americkém trhu,
+
+[B] nemusí vždy fungovat v České republice. Takže ne všechno, co jsme okopírovali nebo se inspirovali v Americe, funguje tady v Čechách. A o těch nejlepších, o těch nejúspěšnějších kampaních a hlavně těch konverzních stránkách si
+
+[A] budeme vyprávět v tomhle kurzu.
+
+[B] Budeme mluvit o nejúspěšnějších konverzních stránkách.
+
+[A] A proč mluvím o konverzní stránce? Proč nemluvím o webech? Protože většinou všichni chtějí weby. Nikdo nechce stránku. Na to ž jednu.
+
+[B] Konverzní stránky a ne weby, hlavně kvůli
+
+[A] tomu, že weby se dělají primárně pro
+
+[B] ego, ne pro zákazníka. Skoro všichni podnikatelé, když přemýšlí nad tím,
+
+[A] jak vytvořit svoje nové webový stránky, tak
+
+[B] přemýšlí o tom, jak se o ně budou prezentovat, jak jejich firmů bude ten zákazník nímat, co by o sobě mohli
+
+[A] říct, aby vypadali dobře. A byť se na první pohled a poslední může zdát, že to je správně,
+
+[B] tak tahle strategie úplně zanedbává toho náštěvníka, toho vašeho potenciální zákazníka.
+
+[A] A naopak vyzdvihuje naracismus a vyzdvihuje ego
+
+[B] vaše a mluvíte o sobě, mluvíte o
+
+[A] svým firmě a ve skutečnosti zákazníka tohle až tohle nezajímá. Zákazníka zajímá primárně, co vy jste schopný
+
+[B] udělat s jeho životem, jak jste ho schopný zlepšit.
+
+[A] A na to by se měla ta konverzní stránka soustředit. Protože weby slouží všemu, všem a nikomu. Spoustu lidí navrhuje web tak, co když ten člověk by měl zájem ještě o tohle, co když ten člověk má zájem o tohle. Pojďme tam dát nějaký rozcesník, pojďme tomu člověku ukázat, že děláme ještě tohle, pojďme tomu člověku ukázat ještě tenhle ten produkt, který si sice kupuje 0,07 našich zákazníků,
+
+[B] ale ať je to tam někde k dispozici. A ty weby jsou potom nahuštěný, komunikují
+
+[A] všechno, mluví strašně obecně a potom se
+
+[B] vůbec nesoustředí na tu hlavní potřebu, kterou má ten náštěvník, který dneska Pokud my se nebudeme soustředit na tu jednu jedinou
+
+[A] hlavní potřebu, kterou má ten náštěvník, který
+
+[B] právě teď přišel, tak o něj s větší pravděpodobností přejdeme.
+
+[A] Pokud budeme chtít obsáhnout úplně všechno, co
+
+[B] my děláme, tak si shoršíme šance na to, že si ten člověk, který k
+
+[A] nám dneska přichází, něco koupí. Protože weby jsou děravý jako cedníky.
+
+[B] Web by měl fungovat a vypadat jako trichtíř, no který ho ze zhora Dáme
+
+[A] tu náštěvnost a z toho trichtýře dolů vede jedna jediná dírka a ta vede k té konverzi.
+
+[B] Cedník je něco, do čeho ze zhora
+
+[A] nalejete náštěvnost a ta náštěvnost unikne pryč stovkama, tisícovkama dírek.
+
+[B] Každá z těch dírek může být nějaká zbytečná stránka, zbytečný odkaz, který na těch
+
+[A] webových stránkách vy máte, ale ve skutečnosti
+
+[B] neslouží tomu obchodnímu cíli.
+
+[A] Protože weby jsou zabijáci obchodu.
+
+[B] A vysvětlíme si, proč.
+
+[A] A proč 99% webů v České republice jsou skutečně zabijáci obchodu, místo aby sloužili
+
+[B] obchodu a sloužili vašemu biznisu.
+
+[A] Jak my chceme, aby se uživatel na stránce choval?
+
+[B] Takhle jednoduše.
+
+[A] Aby ten uživatel přišel na tu stránku
+
+[B] a splnil tu konverzi. Aby ta stránka nevedla nikam jinam než v té konverzi. Aby se soustředila na to, že ten uživatel dneska tu konverzi splní, že objedná, že se přihlásí, že vám dá kontaktní údaje, že vám pošle poptávku. Ale takhle ty weby v České republice moc nevypadají. Já vám ukážu, jak většinou vypadají weby v České republice. A jak se chovají uživatele ve skutečnosti. Uživatel přijde na nějakou webovou stránku a
+
+[A] následně má mnoho možností, kam se může prokliknout. Proklikne se třeba na stránku o nás. A na stránce o nás ten uživatel
+
+[B] zjistí, že tam je ještě možnost se prokliknout další stránku, historie společnosti, nebo úvodní slovo jednatele společnosti, nebo časová osa společnosti. A výsledek je takový, že ten uživatel
+
+[A] si něco možná načte, prokliká si pár
+
+[B] stránek, ale ve výsledku odchází pryč, bez konverze. Že vy jste mu poskytli tolik možností, kam může kliknout, co může udělat, že ten člověk se úplně přestal soustředit, na to, co mu nabízíte, co mu chcete prodat, a hlavně přestal se soustředit nebo
+
+[A] vůbec nenašel, že ta vaše stránka a ta vaše služba, ta vaše firma řeší jeho problém a že ho vyřeší tím, že si od vás něco objednu.
+
+[B] Nebo jiný příklad.
+
+[A] Ten člověk přijde na vaši obou stránku
+
+[B] a na úvodní stránce je výpis novinek, co se ve vaší firmě děje.
+
+[A] A ten člověk se proklikne na novinky
+
+[B] a v novinkách je článek, že jste
+
+[A] si pořídili novýho firmního maskota.
+
+[B] a ten člověk si možná přečte článek
+
+[A] o tom, že jste si pořídili firmního
+
+[B] maskota, možná se jich pobaví a ve výsledku odchází pryč ve stý konverzi.
+
+[A] Tohle z toho my nechceme. My nechceme toho člověka vzdělávat o tom, jaká je naše firma, jakou máme historii. My toho člověka nechceme zahletit informacema, jaký novinky se dějou u nás na firmě,
+
+[B] že jsme si pořídili firmního maskota, že to ve skutečnosti zajímá hlavně nás. Je to naše firma, My jsme narcisti, my máme nějaký ego a ta firma nás možná těší, zajímá nás, jestli máme
+
+[A] modrou fasádu, jestli máme maskota, ale toho našeho zákazníka to z největší pravděpodobností nezajímá. Ten zákazník k nám přichází, protože má nějaký problém a ten by rád vyřešil.
+
+[B] Dostal by se do nějaké spozice, dostal
+
+[A] by se rád do nějaké svojí představy o sobě, jak ten problém má vyřešené,
+
+[B] jak jeho život je díky naší službě, díky našemu produktu lepší. Tohle to je to, co my musíme komunikovat na té konverzní stránce.
+
+[A] Ale o tom, jak to uděláme, si
+
+[B] řekneme až v příští lekci.
+
+[A] Bude to zajímavé.
+
+[B] Máte se na co těšit a máte se co naučit.
+
+[A] A doufám, že se naučíte triky a že se naučíte strategii, která povede k
+
+[B] tomu, že vaše firma a vaše přistávací stránky, vaše konverzní stránky budou mnohonásobně úspěšnější, než jsou dnes.
+
