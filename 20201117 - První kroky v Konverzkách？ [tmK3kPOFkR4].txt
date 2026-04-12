@@ -1,0 +1,384 @@
+[A] Dobrý den, tady je Honza a já
+
+[B] vás vítám v konverskách. Chtěl bych vám pro začátek říct, co
+
+[A] konversky jsou, jak je můžete používat a dát vám takovou první nápověru, abyste věděli, kde začít a kam zpravu kliknout. Já trochu zmenším sebe, aby dal větší prostor konverskám a ještě na začátek bych vám rád řekl, co vlastně konversky jsou. Možná si můžete myslet, že konversky jsou
+
+[B] nástroj na rychlou tvorbu webovejch stránek.
+
+[A] Nebo si můžete myslet, že konversky jsou nástroj, který vám pomůže udělat ziskovej, e-mailovej
+
+[B] marketing a posílat maily, včetně automatizace.
+
+[A] A nebo si můžete myslet, že konversky jsou nástroj, ve kterém si naklikáte svůj vlastní jednoduchý prodejní web e-shop a napojíte na ně platební transakce a integrace.
+
+[B] A konversky jsou všechny tyhle tři nástroje ve skutečnosti, ale to není to důležitý.
+
+[A] Hlavní smysl konverzek je, a co konverzky
+
+[B] jsou hlavně, tak je to nástroj na vydělávání peněz na internetu.
+
+[A] Je to nástroj, který vám pomůže vydělat
+
+[B] 1 milion korun online.
+
+[A] Každému, nehledě na to, jaký máte podnikání.
+
+[B] Tím jsem si jistý.
+
+[A] A jestli je to váš úplně první
+
+[B] milion, nebo několikátej, to je jedno, ale já jsem přesvědčenej, že přes konversky to bude ten nejjednodušeji vydělaný milion v onlinu, který jste v životě byli schopni vydělat, ať už co se týče náročnosti, pracnosti a i co se týče rychlosti, protože
+
+[A] by se vám to mělo podařit, pokud
+
+[B] všechno uděláte dobře za pár měsíců, možná
+
+[A] i za několik týdnů.
+
+[B] Ne mějme nízký ambice a věřte si,
+
+[A] Já bych vám chtěl v rychlosti ukázat, co vás bude na konverskách zajímat hlavně.
+
+[B] Vy si budete chtít založit svůj vlastní
+
+[A] projekt, který najdete v záložkách projekty.
+
+[B] Já už ich tady pár mám.
+
+[A] Vidíte, že když už budete mít projekt vytvořenej, tak vám konversky budou ukazovat ty
+
+[B] nejdůležitější metriky, jako je například konverzní poměr,
+
+[A] počet registrací a případně konverzní poměr důležitějších
+
+[B] konverzí, jako jsou třeba poptávky a nebo následně i objednávky.
+
+[A] Vy každopádně začnete tím, že si založíte
+
+[B] svůj novej projekt a možná začnete, a to bych i doporučoval, vaším prvním e-mailovým magnetem.
+
+[A] E-mailový magnet je stránka, která vám umožní
+
+[B] získat kontakty na vaše potenciální zákazníky ještě
+
+[A] předtím, než jim budete něco prodávat. A tohle je velmi důležitá marketingová taktika. Můžete si vybrat některou ze šablon, jako vidíte, že já jsem si právě teď
+
+[B] vybral e-mailový magnet Brooklyn. Co se těch šablon týče, tak jsou to všechno stránky a šablony, které byly
+
+[A] z naší strany zinicial prověřené stovkama tisíc náštěv a milionama korun v utracených nákladech na reklamy. Takže my jsme tyhle šablony připravili, začistili
+
+[B] a utvořili pro vás tak, aby jsme si byli jistí, že pokud v nich nebudete příliš moc měnit, tak by měly
+
+[A] dosahovat vzhledem k jejich rozvržení těch nejlepších konverzních poměrů. Proto bych doporučoval je moc neupravovat a
+
+[B] spíše si je jen přetekstovat a malinko přestylovat.
+
+[A] Jenom v rychlosti, abyste viděli, jak konversky
+
+[B] fungujou, tak je to tzv.
+
+[A] drag and drop textovej editor, to znamená, nepotřebujete umět kódovat. Pokud tady je nějaký text, který si
+
+[B] chcete přepsat, tak si ho prostě jenom označíte a začnete psát přepsání textu
+
+[A] Pokud budete chtít si vyměnit u jakýhokoliv prvku
+
+[B] jeho barvu, jeho estetiku, jeho zarovnání, tak
+
+[A] u každé komponenty najdete tlačítko, který vypadá
+
+[B] jako ozubený kolečko, a tohle tlačítko, když zmáčknete, tak na vás vyskočí lišta, ve
+
+[A] které můžete veselé formátovat.
+
+[B] Zarovnání textu, velikost písma, můžete si zvolit, jaký font chcete. Fontů jsme dali k dispozici spoustu.
+
+[A] Já mám rád typografii, takže jsem spolu s mojima kolegama vybral ty fonty, které se nám na internetu nejvíc líbily a
+
+[B] znály se nám nejhezčí.
+
+[A] Můžete si vybrat barvou pozadí nebo barvou textu atd. Tohle jsou asi celkem intuitivní věci, takže nemusím nějak detaily, nepředpokládám, popisovat.
+
+[B] Tohle z to je, jak se v konverskách věci mění a jak se v
+
+[A] konverskách můžou věci upravovat. Pokud tady máte nějaký prvek, který nechcete
+
+[B] použít, například logo Initia, tak buď byste
+
+[A] si ho mohli nahradit svým vlastním logem, a nebo dát úplně pryč, a k tomu slouží u každého komponentu tady ta ikonka koše.
+
+[B] Takže když máčknu koš, můžu odstranit tohle ten komponent.
+
+[A] A naopak, pokud bych chtěl něco přidat,
+
+[B] tak na okrajích každé sekce jsou tlačítka
+
+[A] přidat komponentu nebo přidat řádku.
+
+[B] Pokud bych chtěl přijít v řádku, tak
+
+[A] si tady můžu vybrat novou prázdnou řádku například. Můžu si vybrat, jestli chci jeden nebo dva sloubce, tak já si vybru třeba dva sloubce. A do jednoho sloubce si můžu přidat nějakou novou komponentu.
+
+[B] Například nadpis.
+
+[A] Do druhého sloubce si můžu přidat jinou komponentu. Například obrázek, tlačítko nebo třeba video. To je na vás.
+
+[B] Co se videa týče, tak opět v rámci nastavení si můžete zvolit jaký typ videa chcete, jestli chcete vyložit video třeba z YouTube, nebo video z jiného poskytovatele,
+
+[A] výměr, visty, anebo tzv.
+
+[B] embedovaný video. To jenom v případě, že budete chtít s videem pracovat.
+
+[A] Potom vás bude zajímat že konversky umožňujou na stránky přidávat ještě další předpřipravený komponenty
+
+[B] tady nahoře v této liště. Takže kdykoliv zvolíte, že chcete do konversek
+
+[A] něco přidat, můžete přidat buď hotové bloky, jako je například objednávkový formulář, optávkový formulář,
+
+[B] testimoniály, anebo jednotlivý dílčí komponenty, jako je
+
+[A] například nadpis, odstavec, obrázek, upozornění, ukazatel průběhu, To je takovej konverzní prvek odpočet video, jak už jsem ukazoval.
+
+[B] A jediné, co stačí, je ten komponent takhle uchytit a tzv. drag and dropem ho umístit tam, kam chcete. Mám tady uložený tlačítko. To tlačítko můžu následně přes nastavení odkázat na nějaký odkaz. Můžu s tím tlačítkem otevřít tzv. pop-up. Nebo tím tlačítkem můžu poslat stránku na nějakou kotvu, kterou umístím třeba na spodek té stránky. Tohle je v rychlosti editor a spíš
+
+[A] než na vyprávění dlouhý, je to o tom, abyste se do něj sami podívali
+
+[B] a zkusili si s ním něco vytvořit.
+
+[A] My jsme se snažili, aby ty ovládací
+
+[B] prvky byly intuitivní, takže doufám, že se v tom vyznáte.
+
+[A] Jeden ještě prvek, který pomáhá k vyšším konverzím u přistávacích stránek, je takzvané vyskakovací okno. To ještě naposledy ukážu v rámci editoru, kde najdete. Nachází se tady vyskakovací okno. A pokud kliknete Zobrazit, tak se ukáže, zda v dané šabloně to vyskakovací okno je nějak připraven. Tady vidíte, že vyskakovací okno ve skutečnosti
+
+[B] slouží k tomu nejdůležitějšímu v té šabloně,
+
+[A] co znamená zadáváním e-mailu do tohoto e-mailového magnetu. Pokud byste to vyskakovací okno chtěli skrýt, což u této šablony by smyslu moc nedávalo, tak by na něj buďto nevedlo žádnou tlačítko, který na té stránce je, a nebo byste nezaškrtávali z obrazy při opouštění stránky.
+
+[B] Protože konversky umožňují ještě jednu funkci, a to je tzv. exit pop-up.
+
+[A] Protože na stránkách, kde jsou exit pop-upy, tak ten exit pop-up může zachránit několik procent konverzí, Ale pozor na to, exit pop-upy mají i jednu nevýhodu.
+
+[B] Některý reklamní systémy jeji můžou blokovat.
+
+[A] To znamená, že pokud třeba budete mít smůlu a vytvoříte reklamu na Facebooku, která povede na stránku, kde tohle vyskakovací okno
+
+[B] bude, respektive kde bude exit pop-up, to znamená okno, který vyskakuje samo, když se snaží uživatel stránku opustit, tak vám třeba Facebook může reklamu na tuhle stránku zakázat.
+
+[A] To se ale netýká okna, který vyskakuje
+
+[B] potom, co se klikne na stránce, na některé tlačítko. To je v pořádku a toho se bát nemusíte.
+
+[A] Pak ještě možná pár funkcí, které tu jsou. Můžete si zobrazit, jak vypadá vaše stránka na mobilním zařízení v landscape režimu nebo v portraitovém režimu, jak vypadá vaše stránka na počítači nebo na tabletu. Je tady bezpečně tlačítko zpět, pokud něco
+
+[B] uděláte, co jste nechtěli, tak máčknete zpět
+
+[A] a vrátíte akci o jeden krok na zpátek.
+
+[B] A pak je tady ještě možnost podívat
+
+[A] se na náhled, jak ta vlastně stránka, kterou jste si udělali, vypadá. Teď vidíte, že u mě vypadá furt stejně nezměněně.
+
+[B] To je tím, že tu stránku nejdřív musím uložit. Takže když bych mačknul uložit a teď znova otevřu to okno, tak vidíte, že
+
+[A] už ta stránka je poupravená od ty nový prvky, který jsem sem vložil. Samozřejmě není moc pěkná, protože jsem to
+
+[B] ještě neměl čas nijak formátovat.
+
+[A] A ještě jedna věc. Na každý stránce je nastavení, kde si u té stránky můžete nastavit třeba SEO věci, jako je titulek. Do každé té stránky můžete vkládat měřící kódy, pokud tam budete chtít dát Google
+
+[B] kód, nebo Facebook kód, nebo jiný JavaScriptový kód.
+
+[A] A můžete taky zvolit integrace. O tom se budu bavit za chviličku.
+
+[B] A případně nastavit tu stránku, nebo spíš
+
+[A] akci, která je na té stránce, aby byla napojená na nějakou e-mailovou sekvenci. To souvisí s další funkcí, kterou konversky mají, a to je e-mailová automatizace. Případně pokud budete dělat prodejní driftíře, o tom zatím jsem se nebavil, tak můžete
+
+[B] stránky propojit ještě s upsellem, což je tzv. navěšovací prodej. Tohle je editor stránek a tohle jsou stránky, které slouží jako takzvané e-mailové magnety.
+
+[A] E-mailový magnet ještě jednou stránka, kam pozvete
+
+[B] uživatele, od kterého ještě nechcete, aby platil,
+
+[A] protože ta pravděpodobnost je menší a chcete od něj primárně získat kontaktní údaj. Takže na této stránce by uživatel přišel,
+
+[B] zadal svůj e-mail a zaregistroval by se
+
+[A] k vašemu e-mailovému magnetu v tomto editoru
+
+[B] si svůj vlastní e-mailový magnet, který může
+
+[A] dosahovat konverzních poměrů velmi snadno 30, 40, 50 a zvládnete to udělat si úplně sami. Tady vidíte, že několik e-mailových magnetů, který
+
+[B] jsem si v rámci přípravy a testování
+
+[A] udělal, tak těhle konverzních poměrů snadno dosahujou.
+
+[B] Tenhle má 39,18 %, tenhle 24,76 %.
+
+[A] Další část, kterou bych vám chtěl ukázat jenom v rychlosti, jsou e-mailový sekvence. Protože konversky mají v sobě zabudovanou e-mailovou automatizaci.
+
+[B] To je možnost, kterou většina nástrojů na e-mailový marketing má pouze ve svý placený verzi. A konverzky mají navíc ještě jednu výhodu,
+
+[A] že konverzky nejsou velikej e-mailovej nástroj. To znamená, servery konverzek ještě nejsou tak sprofanovaný u e-mailových servrů, jako je Gmail, Centrum nebo Seznam. To zároveň znamená, že e-maily z konverzek
+
+[B] mají velmi často mnohem lepší doručitelnosti.
+
+[A] Ty doručitelnosti, míru otevření, míru prokliku, počet odeslání u každého mailu můžete v konverzkách takhle krásně monitorovat. My máme skutečně vyzkoušeno, že stejné e-mailové
+
+[B] sekvence, které posíláme z konverzek, mají o
+
+[A] jednotky až desítky procent vyšší míry otevření
+
+[B] a míry prokliku a doručitelnosti, než má například mail, čím smart e-mailing nebo jiný nástroj.
+
+[A] A tyto e-mailové šablony si tady můžete vytvořit, můžete si jich tady vytvořit nespočet a můžete je nastavit, aby se odesíhaly automaticky po tom, co uživatel udělá nějakou akci. Například, jak tady vidíte, i hned po
+
+[B] odeslání formuláře, anebo třeba dva dny, čtyři
+
+[A] dny po tom, co se uživatel zaregistruje
+
+[B] k odběru vašeho newsletteru.
+
+[A] Ty šablony se editujou velmi snadno. Nastavíte si tady odesílatele, nastavíte si tady, za jak dlouho chcete, třeba v počet lidí od registrace, za jak dlouho chcete, aby ten e-mail byl odeslanej, například jeden den po registraci, přesně v čase 12.00.
+
+[B] Tohle je důležité, protože e-maily, které se posílají
+
+[A] v konkrétních hodinách, tíhnou k tomu, že
+
+[B] mají lepší míry otevření. A potom
+
+[A] tady máte jednoduchý takzvaný VisiVic editor, ve
+
+[B] kterém si můžete ty vaše e-mailové sekvence,
+
+[A] ty e-mailové šablony natextovat, připravit tak, aby vám seděly a hlavně aby seděly těm
+
+[B] uživatelům, kterým je chcete poslat. A předtím, než tu sekvenci uložíte, tak máte možnost
+
+[A] odeslat si vždycky testovací e-mail, abyste si mohli i u vás v e-mailu prolídnout,
+
+[B] co jste vlastně vytvořili a jak to
+
+[A] vypadá. To jsou e-mailové
+
+[B] sekvence a ještě vám ukážu, Další věc,
+
+[A] která je podstatná, a to jsou integrace,
+
+[B] který si můžete v konverskách udělat. Když si vytvoříte
+
+[A] novou integraci, tak můžete si udělat integraci například s nějakým e-mailovým nástrojem, pokud už
+
+[B] jej používáte a chcete vaše lídy do tohoto nástroje snadno přenést, například MailChimp, Ale mě teď je spíš o to, že
+
+[A] si tady můžete velmi snadno vytvořit platební
+
+[B] integrace, protože konversky nejsou jenom o lidech,
+
+[A] o získávání kontaktních údajů, ale jsou i o prodej. A my jsme tady vybrali ty nejlepší platební brány, hlavně ze hlediska konversních poměrů. A tady bych výrazně doporučoval používat Stripe. A pokud si budete chtít udělat vlastní integraci na Stripe, tak není to nic složitýho. Vidíte, že akorát si integraci pojmenujete
+
+[B] a vložíte sem dva kódy, které vám Stripe dá k dispozici. veřejnej kód a
+
+[A] tajnej kód a nastavíte si měnu,
+
+[B] ve které chcete přijímat vaše platby. A následně už vám stačí akorát vytvořit si svůj
+
+[A] vlastní produkt, který uděláte taky velmi snadno, napíšete si, co chcete prodávat, třeba kniha,
+
+[B] první miliarda je nejtěžší, nastavíte, jestli jste
+
+[A] pláci nebo nejste pláci a nastavíte si,
+
+[B] za kolik chcete prodávat váš produkt, například
+
+[A] za 99 Kč, SASBA, DPA, 21%. A zároveň konversky umožňujou dělat jednorázový produkty, anebo pokud například prodáváte členství na měsíčním bázi nebo program, kde se ty penízeouživatelů mají strhávat pravidelně, tak si můžete nastavit opakovaný strhávání pladeb a nastavíte si, že se má ta platba strhávat třeba
+
+[B] jednou za měsíc, jednou za den, jednou za týden nebo jednou za rok. A vytvoříte si váš vlastní produkt. Ten produkt potom
+
+[A] napojíte na šablonu, která už je prodejní.
+
+[B] My jsme si v rychlosti ukázali šablonu e-mailovou, ale stejně
+
+[A] tak si můžete v Konverskách vytvořit novej prodejní projekt. A to tak, že vyberete typ trichtíře, nikoliv e-mailovej magnet,
+
+[B] ale prodejní trichtíř. A zvolíte jeden z těch, který jsou od nás předpřipravený. Opět říkám,
+
+[A] ty trichtíře jsme vytvořili tak, jak jsme na základě stovek
+
+[B] tisíc náštěv a milionů korun měli možnost
+
+[A] protestovat, co má nejlepší konverzní poměry. To
+
+[B] znamená, není tam většinou nic navíc, ty
+
+[A] stránky jsou připravený tak, aby maximalizovali ten konverzní poměr i vám. A když si založíte váš prodejní trichtýř, tak v tom prodejním trichtýři budete
+
+[B] muset napojit produkt, a to je všechno,
+
+[A] a budete muset napojit integraci pokud si
+
+[B] ji zvolíte. Já jsem tady žádnou zatím
+
+[A] nevložil, ale vy, až si napojíte integraci, tak budete
+
+[B] tyhle objednávkový formuláře mít rovnou propojený s
+
+[A] vaším bankovnictvím, anebo respektive s tou vaší platebním bránou a můžete okamžitě přijímat peníze prostřednictvím platebních karet. A tohle je vlastně
+
+[B] všechno. Takhle snadno si můžete vytvořit váš prodejní trichtýř. Já se uložím, abyste viděli,
+
+[A] jak to vypadá, a mám hotovou svoji prodejní stránku, kde si můžu přidat do košíku, a dole vyplnit svoje údaje a koupit si produkt první
+
+[B] miliarda je nejtěžší kniha. Vy si tam
+
+[A] dáte svoje produkty. Ještě, a tímtohle videou
+
+[B] už ukančím, jeden takový trik, na který byste možná nepřišli. Pokud
+
+[A] chcete zvýšit průměrnou hodnotu objednávky, tak není
+
+[B] nic jednoduššího, než si do těhle
+
+[A] formulářů přidat něco, čemu se říká upsell
+
+[B] bump. řekněme česky zaškrtávátko navyšujících prodejů. Já vám teď ukážu, jak na to. Pokud bych měl ještě jeden produkt, a já si ho teď v rychlosti vytvořím, uložím nový produkt a pojmenuji jej produkt pro navyšovací prodej. Za jednu korunu například, nebo za 25 korun, to je jedno. A uložím si tenhleten produkt, tak přejdu do svýho projektu, který jsem si teď vytvořil. Přejdu do produktů
+
+[A] a Konversky mi umožňují ještě funkci speciální
+
+[B] nabídky. Takže já zvolím speciální nabídku a zaškrtnu produkt pro navyšovací prodej. Uložím
+
+[A] si stránku a podívejte se, co se stane.
+
+[B] Ta stránka, respektive ten objednávkový formulář, teď obsahuje ještě tenhleten checkbox. Tomuhle se říká upsell bump. Checkbox pro navyšovací prodej. A my
+
+[A] máme změřeno, že pokud je to udělané alespoň průměrně,
+
+[B] tak zhruba 20 uživatelů si koupí
+
+[A] i tenhleten navyšovací prodej, potřebněj
+
+[B] svým tohodle jednoduchého zaškrtávacího tlačítka. Tím pádem vy, téměř bez práce, jste schopní z
+
+[A] této stránky získat třeba až dvojnásobek průměrný
+
+[B] hodnoty objednávky než bez ní. Jediný, co stačí, vložit sem zajímavý produkt, který
+
+[A] není moc komplikovaný, trochu ho popsat, a ty lidi, kteří už jsou připravení si koupit
+
+[B] ten hlavní produkt, tak 20 z nich až je ochotno tohle zaškrtnout, máčknout, objednat a vy máte výrazně snadno, mírazně vyšší průměrnou hodnotu objednávky. Teď už je to na vás. Já vám přeju, aby vám
+
+[A] práce s konverskama šla, aby byla jednoduchá,
+
+[B] ale hlavně aby vedla k tomu, co
+
+[A] chcete dosáhnout, a to je vydělat díky konverskám
+
+[B] přes online svůj první milion korun. Pokud
+
+[A] byste měli jakýkoliv potíže, tak my máme k dispozici nápovědu, tak se nestýte ozvat se nám kdykoliv s jakýmkoliv problémem, který máte, a nebo pokud vás bude zajímat studium a víc
+
+[B] metod, principů a taktik, jak si můžete dělat svoje vlastní vysokokonverzní trichtíře, tak vám doporučuji vyzkoušet náš kurz, jak si vytvořit svoji milionovou stránku. Ten najdete buď v konverskách a nebo někde na stránkách konversky.cz. Ať se vám daří, držem vám palce. Mějte se fajn a všechno dobrý.
+
